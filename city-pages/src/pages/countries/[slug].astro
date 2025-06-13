@@ -1,0 +1,58 @@
+---
+import { getEntry, getCollection } from "astro:content";
+import NeighborIsla from '../../components/NeighborIsla.jsx';
+import TravelPlanIsla from '../../components/TravelPlanIsla.vue';
+
+export async function getStaticPaths() {
+  const countries = await getCollection("countries");
+  return countries.map((country) => ({
+    params: { slug: country.data.code },
+  }));
+}
+
+const { slug } = Astro.params;
+let countryEntry = await getEntry("countries", slug);
+
+if (!countryEntry) {
+  const countries = await getCollection("countries");
+  countryEntry = countries[0];
+}
+
+const country = countryEntry.data;
+const allCountries = await getCollection("countries");
+
+// ***** Descomentar para entregar los vecinos del país ******
+
+// const neighbors = country.borders
+//   ? country.borders
+//       .map(code => allCountries.find(c => c.data.code === code))
+//       .filter(Boolean)
+//       .map(c => ({
+//         code: c.data.code,
+//         name: c.data.name,
+//         flag: c.data.flag,
+//       }))
+//   : [];
+// ---
+---
+<html lang="es">
+<head>
+  <title>{country.name}</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body class="container py-5">
+  <h1 class="display-4 mb-4">{country.name}</h1>
+  <img src={country.flag} alt={`Bandera de ${country.name}`} class="img-fluid rounded mb-4" style="max-width: 10rem;" />
+
+  <section>
+    <h2 class="h5 mb-3">Países vecinos</h2>
+    <!-- <NeighborIsla neighbors={neighbors} client:load /> -->
+  </section>
+
+  <section class="mt-5">
+    <TravelPlanIsla country={country} client:visible />
+  </section>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

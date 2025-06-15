@@ -1,8 +1,15 @@
 {
+  "slug": "kyrgyzstan",
   "code": "kgz",
   "name": "Kyrgyzstan",
   "capital": "Bishkek",
   "flag": "https://flagcdn.com/w320/kg.png",
   "region": "Asia",
-  "population": 6591600
+  "population": 6591600,
+  "borders": [
+    "CHN",
+    "KAZ",
+    "TJK",
+    "UZB"
+  ]
 }

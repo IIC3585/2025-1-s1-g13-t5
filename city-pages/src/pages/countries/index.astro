@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import Layout from '../../layouts/Layout.astro';
 const countries = await getCollection("countries");
+
 ---
 <Layout>
 <main class="container py-5">
@@ -9,7 +10,7 @@ const countries = await getCollection("countries");
   <div class="row row-cols-1 row-cols-md-3 g-4">
     {countries.map((country) => (
       <div class="col">
-        <a href={`/countries/${country.data.code}`} class="text-decoration-none text-dark">
+        <a href={`/countries/${country.data.slug}`} class="text-decoration-none text-dark">
           <div class="card h-100 shadow-sm">
             <img 
               src={country.data.flag} 

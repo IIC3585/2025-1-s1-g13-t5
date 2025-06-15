@@ -1,8 +1,13 @@
 {
+  "slug": "lebanon",
   "code": "lbn",
   "name": "Lebanon",
   "capital": "Beirut",
   "flag": "https://flagcdn.com/w320/lb.png",
   "region": "Asia",
-  "population": 6825442
+  "population": 6825442,
+  "borders": [
+    "ISR",
+    "SYR"
+  ]
 }

@@ -1,8 +1,13 @@
 {
+  "slug": "ecuador",
   "code": "ecu",
   "name": "Ecuador",
   "capital": "Quito",
   "flag": "https://flagcdn.com/w320/ec.png",
   "region": "Americas",
-  "population": 17643060
+  "population": 17643060,
+  "borders": [
+    "COL",
+    "PER"
+  ]
 }

@@ -1,8 +1,18 @@
 {
+  "slug": "niger",
   "code": "ner",
   "name": "Niger",
   "capital": "Niamey",
   "flag": "https://flagcdn.com/w320/ne.png",
   "region": "Africa",
-  "population": 24206636
+  "population": 24206636,
+  "borders": [
+    "DZA",
+    "BEN",
+    "BFA",
+    "TCD",
+    "LBY",
+    "MLI",
+    "NGA"
+  ]
 }

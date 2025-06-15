@@ -1,8 +1,15 @@
 {
+  "slug": "egypt",
   "code": "egy",
   "name": "Egypt",
   "capital": "Cairo",
   "flag": "https://flagcdn.com/w320/eg.png",
   "region": "Africa",
-  "population": 102334403
+  "population": 102334403,
+  "borders": [
+    "ISR",
+    "LBY",
+    "PSE",
+    "SDN"
+  ]
 }

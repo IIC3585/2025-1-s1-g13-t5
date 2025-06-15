@@ -1,8 +1,18 @@
 {
+  "slug": "algeria",
   "code": "dza",
   "name": "Algeria",
   "capital": "Algiers",
   "flag": "https://flagcdn.com/w320/dz.png",
   "region": "Africa",
-  "population": 44700000
+  "population": 44700000,
+  "borders": [
+    "TUN",
+    "LBY",
+    "NER",
+    "ESH",
+    "MRT",
+    "MLI",
+    "MAR"
+  ]
 }

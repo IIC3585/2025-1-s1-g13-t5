@@ -1,8 +1,18 @@
 {
+  "slug": "iran",
   "code": "irn",
   "name": "Iran",
   "capital": "Tehran",
   "flag": "https://flagcdn.com/w320/ir.png",
   "region": "Asia",
-  "population": 83992953
+  "population": 83992953,
+  "borders": [
+    "AFG",
+    "ARM",
+    "AZE",
+    "IRQ",
+    "PAK",
+    "TUR",
+    "TKM"
+  ]
 }

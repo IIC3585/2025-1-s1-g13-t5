@@ -1,8 +1,12 @@
 {
+  "slug": "sri-lanka",
   "code": "lka",
   "name": "Sri Lanka",
   "capital": "Sri Jayawardenepura Kotte",
   "flag": "https://flagcdn.com/w320/lk.png",
   "region": "Asia",
-  "population": 21919000
+  "population": 21919000,
+  "borders": [
+    "IND"
+  ]
 }

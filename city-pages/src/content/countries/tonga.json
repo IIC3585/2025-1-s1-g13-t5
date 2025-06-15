@@ -1,8 +1,10 @@
 {
+  "slug": "tonga",
   "code": "ton",
   "name": "Tonga",
   "capital": "Nuku'alofa",
   "flag": "https://flagcdn.com/w320/to.png",
   "region": "Oceania",
-  "population": 105697
+  "population": 105697,
+  "borders": []
 }

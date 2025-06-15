@@ -1,8 +1,17 @@
 {
+  "slug": "south-africa",
   "code": "zaf",
   "name": "South Africa",
   "capital": "Pretoria",
   "flag": "https://flagcdn.com/w320/za.png",
   "region": "Africa",
-  "population": 59308690
+  "population": 59308690,
+  "borders": [
+    "BWA",
+    "LSO",
+    "MOZ",
+    "NAM",
+    "SWZ",
+    "ZWE"
+  ]
 }

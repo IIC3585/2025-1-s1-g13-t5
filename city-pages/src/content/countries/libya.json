@@ -1,8 +1,17 @@
 {
+  "slug": "libya",
   "code": "lby",
   "name": "Libya",
   "capital": "Tripoli",
   "flag": "https://flagcdn.com/w320/ly.png",
   "region": "Africa",
-  "population": 6871287
+  "population": 6871287,
+  "borders": [
+    "DZA",
+    "TCD",
+    "EGY",
+    "NER",
+    "SDN",
+    "TUN"
+  ]
 }

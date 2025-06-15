@@ -1,8 +1,10 @@
 {
+  "slug": "curacao",
   "code": "cuw",
   "name": "Curaçao",
   "capital": "Willemstad",
   "flag": "https://flagcdn.com/w320/cw.png",
   "region": "Americas",
-  "population": 155014
+  "population": 155014,
+  "borders": []
 }

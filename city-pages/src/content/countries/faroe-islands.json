@@ -1,8 +1,10 @@
 {
+  "slug": "faroe-islands",
   "code": "fro",
   "name": "Faroe Islands",
   "capital": "Tórshavn",
   "flag": "https://flagcdn.com/w320/fo.png",
   "region": "Europe",
-  "population": 48865
+  "population": 48865,
+  "borders": []
 }

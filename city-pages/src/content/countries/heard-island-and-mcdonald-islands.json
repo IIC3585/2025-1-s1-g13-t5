@@ -1,7 +1,9 @@
 {
+  "slug": "heard-island-and-mcdonald-islands",
   "code": "hmd",
   "name": "Heard Island and McDonald Islands",
   "flag": "https://flagcdn.com/w320/hm.png",
   "region": "Antarctic",
-  "population": 0
+  "population": 0,
+  "borders": []
 }

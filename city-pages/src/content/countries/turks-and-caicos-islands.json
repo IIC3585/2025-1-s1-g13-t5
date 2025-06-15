@@ -1,8 +1,10 @@
 {
+  "slug": "turks-and-caicos-islands",
   "code": "tca",
   "name": "Turks and Caicos Islands",
   "capital": "Cockburn Town",
   "flag": "https://flagcdn.com/w320/tc.png",
   "region": "Americas",
-  "population": 38718
+  "population": 38718,
+  "borders": []
 }

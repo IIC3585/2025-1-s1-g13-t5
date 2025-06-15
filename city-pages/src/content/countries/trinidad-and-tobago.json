@@ -1,8 +1,10 @@
 {
+  "slug": "trinidad-and-tobago",
   "code": "tto",
   "name": "Trinidad and Tobago",
   "capital": "Port of Spain",
   "flag": "https://flagcdn.com/w320/tt.png",
   "region": "Americas",
-  "population": 1399491
+  "population": 1399491,
+  "borders": []
 }

@@ -1,8 +1,12 @@
 {
+  "slug": "canada",
   "code": "can",
   "name": "Canada",
   "capital": "Ottawa",
   "flag": "https://flagcdn.com/w320/ca.png",
   "region": "Americas",
-  "population": 38005238
+  "population": 38005238,
+  "borders": [
+    "USA"
+  ]
 }

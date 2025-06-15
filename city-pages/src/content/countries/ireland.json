@@ -1,8 +1,12 @@
 {
+  "slug": "ireland",
   "code": "irl",
   "name": "Ireland",
   "capital": "Dublin",
   "flag": "https://flagcdn.com/w320/ie.png",
   "region": "Europe",
-  "population": 4994724
+  "population": 4994724,
+  "borders": [
+    "GBR"
+  ]
 }

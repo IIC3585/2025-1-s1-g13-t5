@@ -1,8 +1,14 @@
 {
+  "slug": "morocco",
   "code": "mar",
   "name": "Morocco",
   "capital": "Rabat",
   "flag": "https://flagcdn.com/w320/ma.png",
   "region": "Africa",
-  "population": 36910558
+  "population": 36910558,
+  "borders": [
+    "DZA",
+    "ESH",
+    "ESP"
+  ]
 }

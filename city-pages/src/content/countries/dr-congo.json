@@ -1,8 +1,20 @@
 {
+  "slug": "dr-congo",
   "code": "cod",
   "name": "DR Congo",
   "capital": "Kinshasa",
   "flag": "https://flagcdn.com/w320/cd.png",
   "region": "Africa",
-  "population": 108407721
+  "population": 108407721,
+  "borders": [
+    "AGO",
+    "BDI",
+    "CAF",
+    "COG",
+    "RWA",
+    "SSD",
+    "TZA",
+    "UGA",
+    "ZMB"
+  ]
 }

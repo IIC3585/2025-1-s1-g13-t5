@@ -1,8 +1,13 @@
 {
+  "slug": "nepal",
   "code": "npl",
   "name": "Nepal",
   "capital": "Kathmandu",
   "flag": "https://flagcdn.com/w320/np.png",
   "region": "Asia",
-  "population": 29136808
+  "population": 29136808,
+  "borders": [
+    "CHN",
+    "IND"
+  ]
 }

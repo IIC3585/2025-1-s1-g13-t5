@@ -1,8 +1,12 @@
 {
+  "slug": "united-kingdom",
   "code": "gbr",
   "name": "United Kingdom",
   "capital": "London",
   "flag": "https://flagcdn.com/w320/gb.png",
   "region": "Europe",
-  "population": 67215293
+  "population": 67215293,
+  "borders": [
+    "IRL"
+  ]
 }

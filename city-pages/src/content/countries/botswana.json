@@ -1,8 +1,15 @@
 {
+  "slug": "botswana",
   "code": "bwa",
   "name": "Botswana",
   "capital": "Gaborone",
   "flag": "https://flagcdn.com/w320/bw.png",
   "region": "Africa",
-  "population": 2351625
+  "population": 2351625,
+  "borders": [
+    "NAM",
+    "ZAF",
+    "ZMB",
+    "ZWE"
+  ]
 }

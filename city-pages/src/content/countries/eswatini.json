@@ -1,8 +1,13 @@
 {
+  "slug": "eswatini",
   "code": "swz",
   "name": "Eswatini",
   "capital": "Mbabane",
   "flag": "https://flagcdn.com/w320/sz.png",
   "region": "Africa",
-  "population": 1160164
+  "population": 1160164,
+  "borders": [
+    "MOZ",
+    "ZAF"
+  ]
 }

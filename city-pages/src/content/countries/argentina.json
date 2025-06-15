@@ -1,8 +1,16 @@
 {
+  "slug": "argentina",
   "code": "arg",
   "name": "Argentina",
   "capital": "Buenos Aires",
   "flag": "https://flagcdn.com/w320/ar.png",
   "region": "Americas",
-  "population": 45376763
+  "population": 45376763,
+  "borders": [
+    "BOL",
+    "BRA",
+    "CHL",
+    "PRY",
+    "URY"
+  ]
 }

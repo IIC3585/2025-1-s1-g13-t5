@@ -1,8 +1,18 @@
 {
+  "slug": "sudan",
   "code": "sdn",
   "name": "Sudan",
   "capital": "Khartoum",
   "flag": "https://flagcdn.com/w320/sd.png",
   "region": "Africa",
-  "population": 43849269
+  "population": 43849269,
+  "borders": [
+    "CAF",
+    "TCD",
+    "EGY",
+    "ERI",
+    "ETH",
+    "LBY",
+    "SSD"
+  ]
 }

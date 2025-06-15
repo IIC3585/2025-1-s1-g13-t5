@@ -1,8 +1,18 @@
 {
+  "slug": "ukraine",
   "code": "ukr",
   "name": "Ukraine",
   "capital": "Kyiv",
   "flag": "https://flagcdn.com/w320/ua.png",
   "region": "Europe",
-  "population": 44134693
+  "population": 44134693,
+  "borders": [
+    "BLR",
+    "HUN",
+    "MDA",
+    "POL",
+    "ROU",
+    "RUS",
+    "SVK"
+  ]
 }

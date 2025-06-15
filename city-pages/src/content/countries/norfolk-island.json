@@ -1,8 +1,10 @@
 {
+  "slug": "norfolk-island",
   "code": "nfk",
   "name": "Norfolk Island",
   "capital": "Kingston",
   "flag": "https://flagcdn.com/w320/nf.png",
   "region": "Oceania",
-  "population": 2302
+  "population": 2302,
+  "borders": []
 }

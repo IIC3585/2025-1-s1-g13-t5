@@ -1,8 +1,14 @@
 {
+  "slug": "malawi",
   "code": "mwi",
   "name": "Malawi",
   "capital": "Lilongwe",
   "flag": "https://flagcdn.com/w320/mw.png",
   "region": "Africa",
-  "population": 19129955
+  "population": 19129955,
+  "borders": [
+    "MOZ",
+    "TZA",
+    "ZMB"
+  ]
 }

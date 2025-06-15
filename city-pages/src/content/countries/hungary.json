@@ -1,8 +1,18 @@
 {
+  "slug": "hungary",
   "code": "hun",
   "name": "Hungary",
   "capital": "Budapest",
   "flag": "https://flagcdn.com/w320/hu.png",
   "region": "Europe",
-  "population": 9749763
+  "population": 9749763,
+  "borders": [
+    "AUT",
+    "HRV",
+    "ROU",
+    "SRB",
+    "SVK",
+    "SVN",
+    "UKR"
+  ]
 }

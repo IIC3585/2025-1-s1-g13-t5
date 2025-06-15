@@ -1,8 +1,10 @@
 {
+  "slug": "marshall-islands",
   "code": "mhl",
   "name": "Marshall Islands",
   "capital": "Majuro",
   "flag": "https://flagcdn.com/w320/mh.png",
   "region": "Oceania",
-  "population": 59194
+  "population": 59194,
+  "borders": []
 }

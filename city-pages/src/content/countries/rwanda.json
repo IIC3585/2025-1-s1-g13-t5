@@ -1,8 +1,15 @@
 {
+  "slug": "rwanda",
   "code": "rwa",
   "name": "Rwanda",
   "capital": "Kigali",
   "flag": "https://flagcdn.com/w320/rw.png",
   "region": "Africa",
-  "population": 12952209
+  "population": 12952209,
+  "borders": [
+    "BDI",
+    "COD",
+    "TZA",
+    "UGA"
+  ]
 }

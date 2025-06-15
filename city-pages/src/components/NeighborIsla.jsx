@@ -8,7 +8,7 @@ export default function NeighborIsla({ neighbors }) { // Modificar este objeto y
         <ul className="flex flex-wrap gap-3">
           {neighbors.map((n) => (
             <li key={n.code} className="border p-2 rounded hover:bg-blue-100 cursor-pointer">
-              <a href={`/countries/${n.code.toLowerCase()}`} className="flex items-center gap-2">
+              <a href={`/countries/${n.slug}`} className="flex items-center gap-2">
                 <img src={n.flag} alt={`Bandera de ${n.name}`} className="w-6 h-4 object-cover" />
                 <span>{n.name}</span>
               </a>

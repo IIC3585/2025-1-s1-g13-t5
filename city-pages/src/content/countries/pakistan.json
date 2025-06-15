@@ -1,8 +1,15 @@
 {
+  "slug": "pakistan",
   "code": "pak",
   "name": "Pakistan",
   "capital": "Islamabad",
   "flag": "https://flagcdn.com/w320/pk.png",
   "region": "Asia",
-  "population": 220892331
+  "population": 220892331,
+  "borders": [
+    "AFG",
+    "CHN",
+    "IND",
+    "IRN"
+  ]
 }

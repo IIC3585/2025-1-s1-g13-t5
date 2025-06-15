@@ -1,8 +1,13 @@
 {
+  "slug": "united-states",
   "code": "usa",
   "name": "United States",
   "capital": "Washington, D.C.",
   "flag": "https://flagcdn.com/w320/us.png",
   "region": "Americas",
-  "population": 329484123
+  "population": 329484123,
+  "borders": [
+    "CAN",
+    "MEX"
+  ]
 }

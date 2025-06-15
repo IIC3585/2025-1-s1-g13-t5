@@ -1,8 +1,12 @@
 {
+  "slug": "dominican-republic",
   "code": "dom",
   "name": "Dominican Republic",
   "capital": "Santo Domingo",
   "flag": "https://flagcdn.com/w320/do.png",
   "region": "Americas",
-  "population": 10847904
+  "population": 10847904,
+  "borders": [
+    "HTI"
+  ]
 }

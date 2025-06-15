@@ -1,8 +1,10 @@
 {
+  "slug": "micronesia",
   "code": "fsm",
   "name": "Micronesia",
   "capital": "Palikir",
   "flag": "https://flagcdn.com/w320/fm.png",
   "region": "Oceania",
-  "population": 115021
+  "population": 115021,
+  "borders": []
 }

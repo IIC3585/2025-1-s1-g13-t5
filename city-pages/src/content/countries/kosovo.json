@@ -1,8 +1,15 @@
 {
+  "slug": "kosovo",
   "code": "unk",
   "name": "Kosovo",
   "capital": "Pristina",
   "flag": "https://flagcdn.com/w320/xk.png",
   "region": "Europe",
-  "population": 1775378
+  "population": 1775378,
+  "borders": [
+    "ALB",
+    "MKD",
+    "MNE",
+    "SRB"
+  ]
 }

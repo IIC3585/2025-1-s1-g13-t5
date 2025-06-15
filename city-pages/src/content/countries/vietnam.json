@@ -1,8 +1,14 @@
 {
+  "slug": "vietnam",
   "code": "vnm",
   "name": "Vietnam",
   "capital": "Hanoi",
   "flag": "https://flagcdn.com/w320/vn.png",
   "region": "Asia",
-  "population": 97338583
+  "population": 97338583,
+  "borders": [
+    "KHM",
+    "CHN",
+    "LAO"
+  ]
 }

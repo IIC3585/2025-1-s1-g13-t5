@@ -1,8 +1,15 @@
 {
+  "slug": "mauritania",
   "code": "mrt",
   "name": "Mauritania",
   "capital": "Nouakchott",
   "flag": "https://flagcdn.com/w320/mr.png",
   "region": "Africa",
-  "population": 4649660
+  "population": 4649660,
+  "borders": [
+    "DZA",
+    "MLI",
+    "SEN",
+    "ESH"
+  ]
 }

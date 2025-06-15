@@ -1,8 +1,16 @@
 {
+  "slug": "laos",
   "code": "lao",
   "name": "Laos",
   "capital": "Vientiane",
   "flag": "https://flagcdn.com/w320/la.png",
   "region": "Asia",
-  "population": 7275556
+  "population": 7275556,
+  "borders": [
+    "MMR",
+    "KHM",
+    "CHN",
+    "THA",
+    "VNM"
+  ]
 }

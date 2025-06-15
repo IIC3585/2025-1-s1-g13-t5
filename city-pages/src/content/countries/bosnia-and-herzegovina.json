@@ -1,8 +1,14 @@
 {
+  "slug": "bosnia-and-herzegovina",
   "code": "bih",
   "name": "Bosnia and Herzegovina",
   "capital": "Sarajevo",
   "flag": "https://flagcdn.com/w320/ba.png",
   "region": "Europe",
-  "population": 3280815
+  "population": 3280815,
+  "borders": [
+    "HRV",
+    "MNE",
+    "SRB"
+  ]
 }

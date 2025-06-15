@@ -1,8 +1,10 @@
 {
+  "slug": "french-southern-and-antarctic-lands",
   "code": "atf",
   "name": "French Southern and Antarctic Lands",
   "capital": "Port-aux-Français",
   "flag": "https://flagcdn.com/w320/tf.png",
   "region": "Antarctic",
-  "population": 400
+  "population": 400,
+  "borders": []
 }

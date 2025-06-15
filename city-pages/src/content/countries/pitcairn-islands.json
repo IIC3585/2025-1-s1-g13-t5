@@ -1,8 +1,10 @@
 {
+  "slug": "pitcairn-islands",
   "code": "pcn",
   "name": "Pitcairn Islands",
   "capital": "Adamstown",
   "flag": "https://flagcdn.com/w320/pn.png",
   "region": "Oceania",
-  "population": 56
+  "population": 56,
+  "borders": []
 }

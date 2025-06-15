@@ -1,8 +1,16 @@
 {
+  "slug": "myanmar",
   "code": "mmr",
   "name": "Myanmar",
   "capital": "Naypyidaw",
   "flag": "https://flagcdn.com/w320/mm.png",
   "region": "Asia",
-  "population": 54409794
+  "population": 54409794,
+  "borders": [
+    "BGD",
+    "CHN",
+    "IND",
+    "LAO",
+    "THA"
+  ]
 }

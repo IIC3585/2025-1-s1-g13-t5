@@ -1,8 +1,17 @@
 {
+  "slug": "ethiopia",
   "code": "eth",
   "name": "Ethiopia",
   "capital": "Addis Ababa",
   "flag": "https://flagcdn.com/w320/et.png",
   "region": "Africa",
-  "population": 114963583
+  "population": 114963583,
+  "borders": [
+    "DJI",
+    "ERI",
+    "KEN",
+    "SOM",
+    "SSD",
+    "SDN"
+  ]
 }

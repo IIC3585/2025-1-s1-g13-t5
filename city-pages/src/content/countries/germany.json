@@ -1,8 +1,20 @@
 {
+  "slug": "germany",
   "code": "deu",
   "name": "Germany",
   "capital": "Berlin",
   "flag": "https://flagcdn.com/w320/de.png",
   "region": "Europe",
-  "population": 83240525
+  "population": 83240525,
+  "borders": [
+    "AUT",
+    "BEL",
+    "CZE",
+    "DNK",
+    "FRA",
+    "LUX",
+    "NLD",
+    "POL",
+    "CHE"
+  ]
 }

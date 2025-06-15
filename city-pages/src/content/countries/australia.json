@@ -1,8 +1,10 @@
 {
+  "slug": "australia",
   "code": "aus",
   "name": "Australia",
   "capital": "Canberra",
   "flag": "https://flagcdn.com/w320/au.png",
   "region": "Oceania",
-  "population": 25687041
+  "population": 25687041,
+  "borders": []
 }

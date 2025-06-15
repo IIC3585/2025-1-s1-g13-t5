@@ -1,8 +1,13 @@
 {
+  "slug": "panama",
   "code": "pan",
   "name": "Panama",
   "capital": "Panama City",
   "flag": "https://flagcdn.com/w320/pa.png",
   "region": "Americas",
-  "population": 4314768
+  "population": 4314768,
+  "borders": [
+    "COL",
+    "CRI"
+  ]
 }

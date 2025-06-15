@@ -1,8 +1,14 @@
 {
+  "slug": "venezuela",
   "code": "ven",
   "name": "Venezuela",
   "capital": "Caracas",
   "flag": "https://flagcdn.com/w320/ve.png",
   "region": "Americas",
-  "population": 28435943
+  "population": 28435943,
+  "borders": [
+    "BRA",
+    "COL",
+    "GUY"
+  ]
 }

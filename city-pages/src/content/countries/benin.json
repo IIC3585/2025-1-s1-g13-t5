@@ -1,8 +1,15 @@
 {
+  "slug": "benin",
   "code": "ben",
   "name": "Benin",
   "capital": "Porto-Novo",
   "flag": "https://flagcdn.com/w320/bj.png",
   "region": "Africa",
-  "population": 12123198
+  "population": 12123198,
+  "borders": [
+    "BFA",
+    "NER",
+    "NGA",
+    "TGO"
+  ]
 }

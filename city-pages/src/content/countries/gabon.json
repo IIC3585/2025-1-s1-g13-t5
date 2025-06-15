@@ -1,8 +1,14 @@
 {
+  "slug": "gabon",
   "code": "gab",
   "name": "Gabon",
   "capital": "Libreville",
   "flag": "https://flagcdn.com/w320/ga.png",
   "region": "Africa",
-  "population": 2225728
+  "population": 2225728,
+  "borders": [
+    "CMR",
+    "COG",
+    "GNQ"
+  ]
 }

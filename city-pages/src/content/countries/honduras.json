@@ -1,8 +1,14 @@
 {
+  "slug": "honduras",
   "code": "hnd",
   "name": "Honduras",
   "capital": "Tegucigalpa",
   "flag": "https://flagcdn.com/w320/hn.png",
   "region": "Americas",
-  "population": 9904608
+  "population": 9904608,
+  "borders": [
+    "GTM",
+    "SLV",
+    "NIC"
+  ]
 }

@@ -1,8 +1,14 @@
 {
+  "slug": "eritrea",
   "code": "eri",
   "name": "Eritrea",
   "capital": "Asmara",
   "flag": "https://flagcdn.com/w320/er.png",
   "region": "Africa",
-  "population": 5352000
+  "population": 5352000,
+  "borders": [
+    "DJI",
+    "ETH",
+    "SDN"
+  ]
 }

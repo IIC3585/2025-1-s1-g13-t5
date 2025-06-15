@@ -1,8 +1,13 @@
 {
+  "slug": "guinea-bissau",
   "code": "gnb",
   "name": "Guinea-Bissau",
   "capital": "Bissau",
   "flag": "https://flagcdn.com/w320/gw.png",
   "region": "Africa",
-  "population": 1967998
+  "population": 1967998,
+  "borders": [
+    "GIN",
+    "SEN"
+  ]
 }

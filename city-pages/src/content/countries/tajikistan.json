@@ -1,8 +1,15 @@
 {
+  "slug": "tajikistan",
   "code": "tjk",
   "name": "Tajikistan",
   "capital": "Dushanbe",
   "flag": "https://flagcdn.com/w320/tj.png",
   "region": "Asia",
-  "population": 9537642
+  "population": 9537642,
+  "borders": [
+    "AFG",
+    "CHN",
+    "KGZ",
+    "UZB"
+  ]
 }

@@ -1,8 +1,10 @@
 {
+  "slug": "saint-kitts-and-nevis",
   "code": "kna",
   "name": "Saint Kitts and Nevis",
   "capital": "Basseterre",
   "flag": "https://flagcdn.com/w320/kn.png",
   "region": "Americas",
-  "population": 53192
+  "population": 53192,
+  "borders": []
 }

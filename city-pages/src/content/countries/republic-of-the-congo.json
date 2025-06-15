@@ -1,8 +1,16 @@
 {
+  "slug": "republic-of-the-congo",
   "code": "cog",
   "name": "Republic of the Congo",
   "capital": "Brazzaville",
   "flag": "https://flagcdn.com/w320/cg.png",
   "region": "Africa",
-  "population": 5657000
+  "population": 5657000,
+  "borders": [
+    "AGO",
+    "CMR",
+    "CAF",
+    "COD",
+    "GAB"
+  ]
 }

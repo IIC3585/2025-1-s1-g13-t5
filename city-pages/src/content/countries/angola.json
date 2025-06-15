@@ -1,8 +1,15 @@
 {
+  "slug": "angola",
   "code": "ago",
   "name": "Angola",
   "capital": "Luanda",
   "flag": "https://flagcdn.com/w320/ao.png",
   "region": "Africa",
-  "population": 32866268
+  "population": 32866268,
+  "borders": [
+    "COG",
+    "COD",
+    "ZMB",
+    "NAM"
+  ]
 }

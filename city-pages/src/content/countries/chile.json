@@ -1,8 +1,14 @@
 {
+  "slug": "chile",
   "code": "chl",
   "name": "Chile",
   "capital": "Santiago",
   "flag": "https://flagcdn.com/w320/cl.png",
   "region": "Americas",
-  "population": 19116209
+  "population": 19116209,
+  "borders": [
+    "ARG",
+    "BOL",
+    "PER"
+  ]
 }

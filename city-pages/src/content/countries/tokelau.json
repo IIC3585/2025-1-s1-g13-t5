@@ -1,8 +1,10 @@
 {
+  "slug": "tokelau",
   "code": "tkl",
   "name": "Tokelau",
   "capital": "Fakaofo",
   "flag": "https://flagcdn.com/w320/tk.png",
   "region": "Oceania",
-  "population": 1411
+  "population": 1411,
+  "borders": []
 }

@@ -1,8 +1,12 @@
 {
+  "slug": "haiti",
   "code": "hti",
   "name": "Haiti",
   "capital": "Port-au-Prince",
   "flag": "https://flagcdn.com/w320/ht.png",
   "region": "Americas",
-  "population": 11402533
+  "population": 11402533,
+  "borders": [
+    "DOM"
+  ]
 }

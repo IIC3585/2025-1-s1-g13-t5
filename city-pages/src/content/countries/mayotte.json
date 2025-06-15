@@ -1,8 +1,10 @@
 {
+  "slug": "mayotte",
   "code": "myt",
   "name": "Mayotte",
   "capital": "Mamoudzou",
   "flag": "https://flagcdn.com/w320/yt.png",
   "region": "Africa",
-  "population": 226915
+  "population": 226915,
+  "borders": []
 }

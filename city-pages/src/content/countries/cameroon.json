@@ -1,8 +1,17 @@
 {
+  "slug": "cameroon",
   "code": "cmr",
   "name": "Cameroon",
   "capital": "Yaoundé",
   "flag": "https://flagcdn.com/w320/cm.png",
   "region": "Africa",
-  "population": 26545864
+  "population": 26545864,
+  "borders": [
+    "CAF",
+    "TCD",
+    "COG",
+    "GNQ",
+    "GAB",
+    "NGA"
+  ]
 }

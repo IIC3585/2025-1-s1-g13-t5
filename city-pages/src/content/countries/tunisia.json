@@ -1,8 +1,13 @@
 {
+  "slug": "tunisia",
   "code": "tun",
   "name": "Tunisia",
   "capital": "Tunis",
   "flag": "https://flagcdn.com/w320/tn.png",
   "region": "Africa",
-  "population": 11818618
+  "population": 11818618,
+  "borders": [
+    "DZA",
+    "LBY"
+  ]
 }

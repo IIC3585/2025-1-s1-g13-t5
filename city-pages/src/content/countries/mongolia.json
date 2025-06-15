@@ -1,8 +1,13 @@
 {
+  "slug": "mongolia",
   "code": "mng",
   "name": "Mongolia",
   "capital": "Ulan Bator",
   "flag": "https://flagcdn.com/w320/mn.png",
   "region": "Asia",
-  "population": 3278292
+  "population": 3278292,
+  "borders": [
+    "CHN",
+    "RUS"
+  ]
 }

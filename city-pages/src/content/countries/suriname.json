@@ -1,8 +1,14 @@
 {
+  "slug": "suriname",
   "code": "sur",
   "name": "Suriname",
   "capital": "Paramaribo",
   "flag": "https://flagcdn.com/w320/sr.png",
   "region": "Americas",
-  "population": 586634
+  "population": 586634,
+  "borders": [
+    "BRA",
+    "GUF",
+    "GUY"
+  ]
 }

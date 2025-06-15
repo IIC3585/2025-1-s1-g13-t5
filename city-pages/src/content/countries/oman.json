@@ -1,8 +1,14 @@
 {
+  "slug": "oman",
   "code": "omn",
   "name": "Oman",
   "capital": "Muscat",
   "flag": "https://flagcdn.com/w320/om.png",
   "region": "Asia",
-  "population": 5106622
+  "population": 5106622,
+  "borders": [
+    "SAU",
+    "ARE",
+    "YEM"
+  ]
 }

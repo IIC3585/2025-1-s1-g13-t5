@@ -1,8 +1,16 @@
 {
+  "slug": "romania",
   "code": "rou",
   "name": "Romania",
   "capital": "Bucharest",
   "flag": "https://flagcdn.com/w320/ro.png",
   "region": "Europe",
-  "population": 19286123
+  "population": 19286123,
+  "borders": [
+    "BGR",
+    "HUN",
+    "MDA",
+    "SRB",
+    "UKR"
+  ]
 }

@@ -1,8 +1,15 @@
 {
+  "slug": "latvia",
   "code": "lva",
   "name": "Latvia",
   "capital": "Riga",
   "flag": "https://flagcdn.com/w320/lv.png",
   "region": "Europe",
-  "population": 1901548
+  "population": 1901548,
+  "borders": [
+    "BLR",
+    "EST",
+    "LTU",
+    "RUS"
+  ]
 }

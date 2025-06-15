@@ -1,8 +1,10 @@
 {
+  "slug": "maldives",
   "code": "mdv",
   "name": "Maldives",
   "capital": "Malé",
   "flag": "https://flagcdn.com/w320/mv.png",
   "region": "Asia",
-  "population": 540542
+  "population": 540542,
+  "borders": []
 }

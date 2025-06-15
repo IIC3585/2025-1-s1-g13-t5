@@ -1,8 +1,13 @@
 {
+  "slug": "nicaragua",
   "code": "nic",
   "name": "Nicaragua",
   "capital": "Managua",
   "flag": "https://flagcdn.com/w320/ni.png",
   "region": "Americas",
-  "population": 6624554
+  "population": 6624554,
+  "borders": [
+    "CRI",
+    "HND"
+  ]
 }

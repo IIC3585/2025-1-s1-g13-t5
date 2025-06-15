@@ -1,8 +1,16 @@
 {
+  "slug": "azerbaijan",
   "code": "aze",
   "name": "Azerbaijan",
   "capital": "Baku",
   "flag": "https://flagcdn.com/w320/az.png",
   "region": "Asia",
-  "population": 10110116
+  "population": 10110116,
+  "borders": [
+    "ARM",
+    "GEO",
+    "IRN",
+    "RUS",
+    "TUR"
+  ]
 }

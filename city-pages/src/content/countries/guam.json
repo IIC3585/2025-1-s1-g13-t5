@@ -1,8 +1,10 @@
 {
+  "slug": "guam",
   "code": "gum",
   "name": "Guam",
   "capital": "Hagåtña",
   "flag": "https://flagcdn.com/w320/gu.png",
   "region": "Oceania",
-  "population": 168783
+  "population": 168783,
+  "borders": []
 }

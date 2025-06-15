@@ -1,8 +1,10 @@
 {
+  "slug": "british-indian-ocean-territory",
   "code": "iot",
   "name": "British Indian Ocean Territory",
   "capital": "Diego Garcia",
   "flag": "https://flagcdn.com/w320/io.png",
   "region": "Africa",
-  "population": 3000
+  "population": 3000,
+  "borders": []
 }

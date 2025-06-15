@@ -1,8 +1,16 @@
 {
+  "slug": "uganda",
   "code": "uga",
   "name": "Uganda",
   "capital": "Kampala",
   "flag": "https://flagcdn.com/w320/ug.png",
   "region": "Africa",
-  "population": 45741000
+  "population": 45741000,
+  "borders": [
+    "COD",
+    "KEN",
+    "RWA",
+    "SSD",
+    "TZA"
+  ]
 }

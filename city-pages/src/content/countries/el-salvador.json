@@ -1,8 +1,13 @@
 {
+  "slug": "el-salvador",
   "code": "slv",
   "name": "El Salvador",
   "capital": "San Salvador",
   "flag": "https://flagcdn.com/w320/sv.png",
   "region": "Americas",
-  "population": 6486201
+  "population": 6486201,
+  "borders": [
+    "GTM",
+    "HND"
+  ]
 }

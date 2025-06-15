@@ -1,8 +1,10 @@
 {
+  "slug": "bahamas",
   "code": "bhs",
   "name": "Bahamas",
   "capital": "Nassau",
   "flag": "https://flagcdn.com/w320/bs.png",
   "region": "Americas",
-  "population": 393248
+  "population": 393248,
+  "borders": []
 }

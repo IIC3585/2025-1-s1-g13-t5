@@ -1,8 +1,10 @@
 {
+  "slug": "reunion",
   "code": "reu",
   "name": "Réunion",
   "capital": "Saint-Denis",
   "flag": "https://flagcdn.com/w320/re.png",
   "region": "Africa",
-  "population": 840974
+  "population": 840974,
+  "borders": []
 }

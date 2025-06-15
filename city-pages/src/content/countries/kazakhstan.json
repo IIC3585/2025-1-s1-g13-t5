@@ -1,8 +1,16 @@
 {
+  "slug": "kazakhstan",
   "code": "kaz",
   "name": "Kazakhstan",
   "capital": "Astana",
   "flag": "https://flagcdn.com/w320/kz.png",
   "region": "Asia",
-  "population": 18754440
+  "population": 18754440,
+  "borders": [
+    "CHN",
+    "KGZ",
+    "RUS",
+    "TKM",
+    "UZB"
+  ]
 }

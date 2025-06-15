@@ -1,8 +1,19 @@
 {
+  "slug": "austria",
   "code": "aut",
   "name": "Austria",
   "capital": "Vienna",
   "flag": "https://flagcdn.com/w320/at.png",
   "region": "Europe",
-  "population": 8917205
+  "population": 8917205,
+  "borders": [
+    "CZE",
+    "DEU",
+    "HUN",
+    "ITA",
+    "LIE",
+    "SVK",
+    "SVN",
+    "CHE"
+  ]
 }

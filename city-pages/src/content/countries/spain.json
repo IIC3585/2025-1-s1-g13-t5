@@ -1,8 +1,16 @@
 {
+  "slug": "spain",
   "code": "esp",
   "name": "Spain",
   "capital": "Madrid",
   "flag": "https://flagcdn.com/w320/es.png",
   "region": "Europe",
-  "population": 47351567
+  "population": 47351567,
+  "borders": [
+    "AND",
+    "FRA",
+    "GIB",
+    "PRT",
+    "MAR"
+  ]
 }

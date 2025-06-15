@@ -1,8 +1,12 @@
 {
+  "slug": "gibraltar",
   "code": "gib",
   "name": "Gibraltar",
   "capital": "Gibraltar",
   "flag": "https://flagcdn.com/w320/gi.png",
   "region": "Europe",
-  "population": 33691
+  "population": 33691,
+  "borders": [
+    "ESP"
+  ]
 }

@@ -1,8 +1,14 @@
 {
+  "slug": "norway",
   "code": "nor",
   "name": "Norway",
   "capital": "Oslo",
   "flag": "https://flagcdn.com/w320/no.png",
   "region": "Europe",
-  "population": 5379475
+  "population": 5379475,
+  "borders": [
+    "FIN",
+    "SWE",
+    "RUS"
+  ]
 }

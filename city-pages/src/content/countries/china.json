@@ -1,8 +1,27 @@
 {
+  "slug": "china",
   "code": "chn",
   "name": "China",
   "capital": "Beijing",
   "flag": "https://flagcdn.com/w320/cn.png",
   "region": "Asia",
-  "population": 1402112000
+  "population": 1402112000,
+  "borders": [
+    "AFG",
+    "BTN",
+    "MMR",
+    "HKG",
+    "IND",
+    "KAZ",
+    "NPL",
+    "PRK",
+    "KGZ",
+    "LAO",
+    "MAC",
+    "MNG",
+    "PAK",
+    "RUS",
+    "TJK",
+    "VNM"
+  ]
 }

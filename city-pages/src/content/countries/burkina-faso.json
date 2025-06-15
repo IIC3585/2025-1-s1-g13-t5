@@ -1,8 +1,17 @@
 {
+  "slug": "burkina-faso",
   "code": "bfa",
   "name": "Burkina Faso",
   "capital": "Ouagadougou",
   "flag": "https://flagcdn.com/w320/bf.png",
   "region": "Africa",
-  "population": 20903278
+  "population": 20903278,
+  "borders": [
+    "BEN",
+    "CIV",
+    "GHA",
+    "MLI",
+    "NER",
+    "TGO"
+  ]
 }

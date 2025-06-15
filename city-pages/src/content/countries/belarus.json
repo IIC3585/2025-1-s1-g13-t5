@@ -1,8 +1,16 @@
 {
+  "slug": "belarus",
   "code": "blr",
   "name": "Belarus",
   "capital": "Minsk",
   "flag": "https://flagcdn.com/w320/by.png",
   "region": "Europe",
-  "population": 9398861
+  "population": 9398861,
+  "borders": [
+    "LVA",
+    "LTU",
+    "POL",
+    "RUS",
+    "UKR"
+  ]
 }

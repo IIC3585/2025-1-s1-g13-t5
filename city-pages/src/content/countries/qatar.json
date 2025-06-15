@@ -1,8 +1,12 @@
 {
+  "slug": "qatar",
   "code": "qat",
   "name": "Qatar",
   "capital": "Doha",
   "flag": "https://flagcdn.com/w320/qa.png",
   "region": "Asia",
-  "population": 2881060
+  "population": 2881060,
+  "borders": [
+    "SAU"
+  ]
 }

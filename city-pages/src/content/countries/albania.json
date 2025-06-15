@@ -1,8 +1,15 @@
 {
+  "slug": "albania",
   "code": "alb",
   "name": "Albania",
   "capital": "Tirana",
   "flag": "https://flagcdn.com/w320/al.png",
   "region": "Europe",
-  "population": 2837743
+  "population": 2837743,
+  "borders": [
+    "MNE",
+    "GRC",
+    "MKD",
+    "UNK"
+  ]
 }

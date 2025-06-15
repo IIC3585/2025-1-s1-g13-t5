@@ -1,8 +1,19 @@
 {
+  "slug": "zambia",
   "code": "zmb",
   "name": "Zambia",
   "capital": "Lusaka",
   "flag": "https://flagcdn.com/w320/zm.png",
   "region": "Africa",
-  "population": 18383956
+  "population": 18383956,
+  "borders": [
+    "AGO",
+    "BWA",
+    "COD",
+    "MWI",
+    "MOZ",
+    "NAM",
+    "TZA",
+    "ZWE"
+  ]
 }

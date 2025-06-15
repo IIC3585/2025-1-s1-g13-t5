@@ -1,8 +1,12 @@
 {
+  "slug": "portugal",
   "code": "prt",
   "name": "Portugal",
   "capital": "Lisbon",
   "flag": "https://flagcdn.com/w320/pt.png",
   "region": "Europe",
-  "population": 10305564
+  "population": 10305564,
+  "borders": [
+    "ESP"
+  ]
 }

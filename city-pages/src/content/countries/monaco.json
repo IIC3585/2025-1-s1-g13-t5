@@ -1,8 +1,12 @@
 {
+  "slug": "monaco",
   "code": "mco",
   "name": "Monaco",
   "capital": "Monaco",
   "flag": "https://flagcdn.com/w320/mc.png",
   "region": "Europe",
-  "population": 39244
+  "population": 39244,
+  "borders": [
+    "FRA"
+  ]
 }

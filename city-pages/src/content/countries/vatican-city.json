@@ -1,8 +1,12 @@
 {
+  "slug": "vatican-city",
   "code": "vat",
   "name": "Vatican City",
   "capital": "Vatican City",
   "flag": "https://flagcdn.com/w320/va.png",
   "region": "Europe",
-  "population": 451
+  "population": 451,
+  "borders": [
+    "ITA"
+  ]
 }

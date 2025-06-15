@@ -1,8 +1,10 @@
 {
+  "slug": "united-states-virgin-islands",
   "code": "vir",
   "name": "United States Virgin Islands",
   "capital": "Charlotte Amalie",
   "flag": "https://flagcdn.com/w320/vi.png",
   "region": "Americas",
-  "population": 106290
+  "population": 106290,
+  "borders": []
 }

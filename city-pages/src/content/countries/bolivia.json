@@ -1,8 +1,16 @@
 {
+  "slug": "bolivia",
   "code": "bol",
   "name": "Bolivia",
   "capital": "Sucre",
   "flag": "https://flagcdn.com/w320/bo.png",
   "region": "Americas",
-  "population": 11673029
+  "population": 11673029,
+  "borders": [
+    "ARG",
+    "BRA",
+    "CHL",
+    "PRY",
+    "PER"
+  ]
 }

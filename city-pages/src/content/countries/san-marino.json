@@ -1,8 +1,12 @@
 {
+  "slug": "san-marino",
   "code": "smr",
   "name": "San Marino",
   "capital": "City of San Marino",
   "flag": "https://flagcdn.com/w320/sm.png",
   "region": "Europe",
-  "population": 33938
+  "population": 33938,
+  "borders": [
+    "ITA"
+  ]
 }

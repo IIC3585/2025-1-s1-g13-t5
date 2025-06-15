@@ -1,8 +1,16 @@
 {
+  "slug": "syria",
   "code": "syr",
   "name": "Syria",
   "capital": "Damascus",
   "flag": "https://flagcdn.com/w320/sy.png",
   "region": "Asia",
-  "population": 17500657
+  "population": 17500657,
+  "borders": [
+    "IRQ",
+    "ISR",
+    "JOR",
+    "LBN",
+    "TUR"
+  ]
 }

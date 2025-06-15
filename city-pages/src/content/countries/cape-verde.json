@@ -1,8 +1,10 @@
 {
+  "slug": "cape-verde",
   "code": "cpv",
   "name": "Cape Verde",
   "capital": "Praia",
   "flag": "https://flagcdn.com/w320/cv.png",
   "region": "Africa",
-  "population": 555988
+  "population": 555988,
+  "borders": []
 }

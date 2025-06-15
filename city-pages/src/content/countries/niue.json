@@ -1,8 +1,10 @@
 {
+  "slug": "niue",
   "code": "niu",
   "name": "Niue",
   "capital": "Alofi",
   "flag": "https://flagcdn.com/w320/nu.png",
   "region": "Oceania",
-  "population": 1470
+  "population": 1470,
+  "borders": []
 }

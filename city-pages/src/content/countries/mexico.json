@@ -1,8 +1,14 @@
 {
+  "slug": "mexico",
   "code": "mex",
   "name": "Mexico",
   "capital": "Mexico City",
   "flag": "https://flagcdn.com/w320/mx.png",
   "region": "Americas",
-  "population": 128932753
+  "population": 128932753,
+  "borders": [
+    "BLZ",
+    "GTM",
+    "USA"
+  ]
 }

@@ -1,8 +1,19 @@
 {
+  "slug": "france",
   "code": "fra",
   "name": "France",
   "capital": "Paris",
   "flag": "https://flagcdn.com/w320/fr.png",
   "region": "Europe",
-  "population": 67391582
+  "population": 67391582,
+  "borders": [
+    "AND",
+    "BEL",
+    "DEU",
+    "ITA",
+    "LUX",
+    "MCO",
+    "ESP",
+    "CHE"
+  ]
 }

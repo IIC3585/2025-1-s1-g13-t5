@@ -1,8 +1,15 @@
 {
+  "slug": "zimbabwe",
   "code": "zwe",
   "name": "Zimbabwe",
   "capital": "Harare",
   "flag": "https://flagcdn.com/w320/zw.png",
   "region": "Africa",
-  "population": 14862927
+  "population": 14862927,
+  "borders": [
+    "BWA",
+    "MOZ",
+    "ZAF",
+    "ZMB"
+  ]
 }

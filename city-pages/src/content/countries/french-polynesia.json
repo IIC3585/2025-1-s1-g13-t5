@@ -1,8 +1,10 @@
 {
+  "slug": "french-polynesia",
   "code": "pyf",
   "name": "French Polynesia",
   "capital": "Papeetē",
   "flag": "https://flagcdn.com/w320/pf.png",
   "region": "Oceania",
-  "population": 280904
+  "population": 280904,
+  "borders": []
 }

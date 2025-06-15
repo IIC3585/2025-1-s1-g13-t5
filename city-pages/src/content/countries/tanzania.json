@@ -1,8 +1,19 @@
 {
+  "slug": "tanzania",
   "code": "tza",
   "name": "Tanzania",
   "capital": "Dodoma",
   "flag": "https://flagcdn.com/w320/tz.png",
   "region": "Africa",
-  "population": 59734213
+  "population": 59734213,
+  "borders": [
+    "BDI",
+    "COD",
+    "KEN",
+    "MWI",
+    "MOZ",
+    "RWA",
+    "UGA",
+    "ZMB"
+  ]
 }

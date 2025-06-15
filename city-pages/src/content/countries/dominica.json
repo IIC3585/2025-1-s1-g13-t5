@@ -1,8 +1,10 @@
 {
+  "slug": "dominica",
   "code": "dma",
   "name": "Dominica",
   "capital": "Roseau",
   "flag": "https://flagcdn.com/w320/dm.png",
   "region": "Americas",
-  "population": 71991
+  "population": 71991,
+  "borders": []
 }

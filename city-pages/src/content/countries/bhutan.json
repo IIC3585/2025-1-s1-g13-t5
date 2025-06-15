@@ -1,8 +1,13 @@
 {
+  "slug": "bhutan",
   "code": "btn",
   "name": "Bhutan",
   "capital": "Thimphu",
   "flag": "https://flagcdn.com/w320/bt.png",
   "region": "Asia",
-  "population": 771612
+  "population": 771612,
+  "borders": [
+    "CHN",
+    "IND"
+  ]
 }

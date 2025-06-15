@@ -1,8 +1,13 @@
 {
+  "slug": "netherlands",
   "code": "nld",
   "name": "Netherlands",
   "capital": "Amsterdam",
   "flag": "https://flagcdn.com/w320/nl.png",
   "region": "Europe",
-  "population": 16655799
+  "population": 16655799,
+  "borders": [
+    "BEL",
+    "DEU"
+  ]
 }

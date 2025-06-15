@@ -1,8 +1,10 @@
 {
+  "slug": "cocos-keeling-islands",
   "code": "cck",
   "name": "Cocos (Keeling) Islands",
   "capital": "West Island",
   "flag": "https://flagcdn.com/w320/cc.png",
   "region": "Oceania",
-  "population": 544
+  "population": 544,
+  "borders": []
 }

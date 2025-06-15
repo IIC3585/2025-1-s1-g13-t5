@@ -1,8 +1,16 @@
 {
+  "slug": "switzerland",
   "code": "che",
   "name": "Switzerland",
   "capital": "Bern",
   "flag": "https://flagcdn.com/w320/ch.png",
   "region": "Europe",
-  "population": 8654622
+  "population": 8654622,
+  "borders": [
+    "AUT",
+    "FRA",
+    "ITA",
+    "LIE",
+    "DEU"
+  ]
 }

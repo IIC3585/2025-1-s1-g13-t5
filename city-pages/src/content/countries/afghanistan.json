@@ -1,8 +1,17 @@
 {
+  "slug": "afghanistan",
   "code": "afg",
   "name": "Afghanistan",
   "capital": "Kabul",
   "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
   "region": "Asia",
-  "population": 40218234
+  "population": 40218234,
+  "borders": [
+    "IRN",
+    "PAK",
+    "TKM",
+    "UZB",
+    "TJK",
+    "CHN"
+  ]
 }

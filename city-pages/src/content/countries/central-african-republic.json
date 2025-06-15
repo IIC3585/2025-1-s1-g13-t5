@@ -1,8 +1,17 @@
 {
+  "slug": "central-african-republic",
   "code": "caf",
   "name": "Central African Republic",
   "capital": "Bangui",
   "flag": "https://flagcdn.com/w320/cf.png",
   "region": "Africa",
-  "population": 4829764
+  "population": 4829764,
+  "borders": [
+    "CMR",
+    "TCD",
+    "COD",
+    "COG",
+    "SSD",
+    "SDN"
+  ]
 }

@@ -1,8 +1,14 @@
 {
+  "slug": "ghana",
   "code": "gha",
   "name": "Ghana",
   "capital": "Accra",
   "flag": "https://flagcdn.com/w320/gh.png",
   "region": "Africa",
-  "population": 31072945
+  "population": 31072945,
+  "borders": [
+    "BFA",
+    "CIV",
+    "TGO"
+  ]
 }

@@ -1,8 +1,10 @@
 {
+  "slug": "grenada",
   "code": "grd",
   "name": "Grenada",
   "capital": "St. George's",
   "flag": "https://flagcdn.com/w320/gd.png",
   "region": "Americas",
-  "population": 112519
+  "population": 112519,
+  "borders": []
 }

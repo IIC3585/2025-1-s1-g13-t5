@@ -1,8 +1,10 @@
 {
+  "slug": "cayman-islands",
   "code": "cym",
   "name": "Cayman Islands",
   "capital": "George Town",
   "flag": "https://flagcdn.com/w320/ky.png",
   "region": "Americas",
-  "population": 65720
+  "population": 65720,
+  "borders": []
 }

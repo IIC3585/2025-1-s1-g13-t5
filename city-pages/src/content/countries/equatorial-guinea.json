@@ -1,8 +1,13 @@
 {
+  "slug": "equatorial-guinea",
   "code": "gnq",
   "name": "Equatorial Guinea",
   "capital": "Malabo",
   "flag": "https://flagcdn.com/w320/gq.png",
   "region": "Africa",
-  "population": 1402985
+  "population": 1402985,
+  "borders": [
+    "CMR",
+    "GAB"
+  ]
 }

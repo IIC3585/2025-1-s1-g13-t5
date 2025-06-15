@@ -1,8 +1,16 @@
 {
+  "slug": "bulgaria",
   "code": "bgr",
   "name": "Bulgaria",
   "capital": "Sofia",
   "flag": "https://flagcdn.com/w320/bg.png",
   "region": "Europe",
-  "population": 6927288
+  "population": 6927288,
+  "borders": [
+    "GRC",
+    "MKD",
+    "ROU",
+    "SRB",
+    "TUR"
+  ]
 }

@@ -1,8 +1,13 @@
 {
+  "slug": "sierra-leone",
   "code": "sle",
   "name": "Sierra Leone",
   "capital": "Freetown",
   "flag": "https://flagcdn.com/w320/sl.png",
   "region": "Africa",
-  "population": 7976985
+  "population": 7976985,
+  "borders": [
+    "GIN",
+    "LBR"
+  ]
 }

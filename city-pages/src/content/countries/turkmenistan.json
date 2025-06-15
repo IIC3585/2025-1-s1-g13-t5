@@ -1,8 +1,15 @@
 {
+  "slug": "turkmenistan",
   "code": "tkm",
   "name": "Turkmenistan",
   "capital": "Ashgabat",
   "flag": "https://flagcdn.com/w320/tm.png",
   "region": "Asia",
-  "population": 6031187
+  "population": 6031187,
+  "borders": [
+    "AFG",
+    "IRN",
+    "KAZ",
+    "UZB"
+  ]
 }

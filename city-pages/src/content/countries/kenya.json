@@ -1,8 +1,16 @@
 {
+  "slug": "kenya",
   "code": "ken",
   "name": "Kenya",
   "capital": "Nairobi",
   "flag": "https://flagcdn.com/w320/ke.png",
   "region": "Africa",
-  "population": 53771300
+  "population": 53771300,
+  "borders": [
+    "ETH",
+    "SOM",
+    "SSD",
+    "TZA",
+    "UGA"
+  ]
 }

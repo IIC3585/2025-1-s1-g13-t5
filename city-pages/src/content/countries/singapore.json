@@ -1,8 +1,10 @@
 {
+  "slug": "singapore",
   "code": "sgp",
   "name": "Singapore",
   "capital": "Singapore",
   "flag": "https://flagcdn.com/w320/sg.png",
   "region": "Asia",
-  "population": 5685807
+  "population": 5685807,
+  "borders": []
 }

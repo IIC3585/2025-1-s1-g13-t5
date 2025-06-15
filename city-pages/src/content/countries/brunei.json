@@ -1,8 +1,12 @@
 {
+  "slug": "brunei",
   "code": "brn",
   "name": "Brunei",
   "capital": "Bandar Seri Begawan",
   "flag": "https://flagcdn.com/w320/bn.png",
   "region": "Asia",
-  "population": 437483
+  "population": 437483,
+  "borders": [
+    "MYS"
+  ]
 }

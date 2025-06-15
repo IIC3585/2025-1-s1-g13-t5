@@ -1,8 +1,17 @@
 {
+  "slug": "guinea",
   "code": "gin",
   "name": "Guinea",
   "capital": "Conakry",
   "flag": "https://flagcdn.com/w320/gn.png",
   "region": "Africa",
-  "population": 13132792
+  "population": 13132792,
+  "borders": [
+    "CIV",
+    "GNB",
+    "LBR",
+    "MLI",
+    "SEN",
+    "SLE"
+  ]
 }

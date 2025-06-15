@@ -1,8 +1,14 @@
 {
+  "slug": "cambodia",
   "code": "khm",
   "name": "Cambodia",
   "capital": "Phnom Penh",
   "flag": "https://flagcdn.com/w320/kh.png",
   "region": "Asia",
-  "population": 16718971
+  "population": 16718971,
+  "borders": [
+    "LAO",
+    "THA",
+    "VNM"
+  ]
 }

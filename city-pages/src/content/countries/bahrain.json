@@ -1,8 +1,10 @@
 {
+  "slug": "bahrain",
   "code": "bhr",
   "name": "Bahrain",
   "capital": "Manama",
   "flag": "https://flagcdn.com/w320/bh.png",
   "region": "Asia",
-  "population": 1701583
+  "population": 1701583,
+  "borders": []
 }

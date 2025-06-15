@@ -1,8 +1,18 @@
 {
+  "slug": "poland",
   "code": "pol",
   "name": "Poland",
   "capital": "Warsaw",
   "flag": "https://flagcdn.com/w320/pl.png",
   "region": "Europe",
-  "population": 37950802
+  "population": 37950802,
+  "borders": [
+    "BLR",
+    "CZE",
+    "DEU",
+    "LTU",
+    "RUS",
+    "SVK",
+    "UKR"
+  ]
 }

@@ -1,8 +1,15 @@
 {
+  "slug": "nigeria",
   "code": "nga",
   "name": "Nigeria",
   "capital": "Abuja",
   "flag": "https://flagcdn.com/w320/ng.png",
   "region": "Africa",
-  "population": 206139587
+  "population": 206139587,
+  "borders": [
+    "BEN",
+    "CMR",
+    "TCD",
+    "NER"
+  ]
 }

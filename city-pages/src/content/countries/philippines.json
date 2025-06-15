@@ -1,8 +1,10 @@
 {
+  "slug": "philippines",
   "code": "phl",
   "name": "Philippines",
   "capital": "Manila",
   "flag": "https://flagcdn.com/w320/ph.png",
   "region": "Asia",
-  "population": 109581085
+  "population": 109581085,
+  "borders": []
 }

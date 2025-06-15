@@ -1,8 +1,10 @@
 {
+  "slug": "iceland",
   "code": "isl",
   "name": "Iceland",
   "capital": "Reykjavik",
   "flag": "https://flagcdn.com/w320/is.png",
   "region": "Europe",
-  "population": 366425
+  "population": 366425,
+  "borders": []
 }

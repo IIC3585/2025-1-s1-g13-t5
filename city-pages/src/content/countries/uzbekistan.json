@@ -1,8 +1,16 @@
 {
+  "slug": "uzbekistan",
   "code": "uzb",
   "name": "Uzbekistan",
   "capital": "Tashkent",
   "flag": "https://flagcdn.com/w320/uz.png",
   "region": "Asia",
-  "population": 34232050
+  "population": 34232050,
+  "borders": [
+    "AFG",
+    "KAZ",
+    "KGZ",
+    "TJK",
+    "TKM"
+  ]
 }

@@ -1,8 +1,17 @@
 {
+  "slug": "mozambique",
   "code": "moz",
   "name": "Mozambique",
   "capital": "Maputo",
   "flag": "https://flagcdn.com/w320/mz.png",
   "region": "Africa",
-  "population": 31255435
+  "population": 31255435,
+  "borders": [
+    "MWI",
+    "ZAF",
+    "SWZ",
+    "TZA",
+    "ZMB",
+    "ZWE"
+  ]
 }

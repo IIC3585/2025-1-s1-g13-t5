@@ -1,8 +1,17 @@
 {
+  "slug": "chad",
   "code": "tcd",
   "name": "Chad",
   "capital": "N'Djamena",
   "flag": "https://flagcdn.com/w320/td.png",
   "region": "Africa",
-  "population": 16425859
+  "population": 16425859,
+  "borders": [
+    "CMR",
+    "CAF",
+    "LBY",
+    "NER",
+    "NGA",
+    "SDN"
+  ]
 }

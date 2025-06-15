@@ -1,8 +1,15 @@
 {
+  "slug": "slovenia",
   "code": "svn",
   "name": "Slovenia",
   "capital": "Ljubljana",
   "flag": "https://flagcdn.com/w320/si.png",
   "region": "Europe",
-  "population": 2100126
+  "population": 2100126,
+  "borders": [
+    "AUT",
+    "HRV",
+    "ITA",
+    "HUN"
+  ]
 }

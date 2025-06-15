@@ -1,8 +1,10 @@
 {
+  "slug": "saint-barthelemy",
   "code": "blm",
   "name": "Saint Barthélemy",
   "capital": "Gustavia",
   "flag": "https://flagcdn.com/w320/bl.png",
   "region": "Americas",
-  "population": 4255
+  "population": 4255,
+  "borders": []
 }

@@ -1,8 +1,13 @@
 {
+  "slug": "french-guiana",
   "code": "guf",
   "name": "French Guiana",
   "capital": "Cayenne",
   "flag": "https://flagcdn.com/w320/gf.png",
   "region": "Americas",
-  "population": 254541
+  "population": 254541,
+  "borders": [
+    "BRA",
+    "SUR"
+  ]
 }

@@ -1,8 +1,16 @@
 {
+  "slug": "peru",
   "code": "per",
   "name": "Peru",
   "capital": "Lima",
   "flag": "https://flagcdn.com/w320/pe.png",
   "region": "Americas",
-  "population": 32971846
+  "population": 32971846,
+  "borders": [
+    "BOL",
+    "BRA",
+    "CHL",
+    "COL",
+    "ECU"
+  ]
 }

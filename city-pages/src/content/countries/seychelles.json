@@ -1,8 +1,10 @@
 {
+  "slug": "seychelles",
   "code": "syc",
   "name": "Seychelles",
   "capital": "Victoria",
   "flag": "https://flagcdn.com/w320/sc.png",
   "region": "Africa",
-  "population": 98462
+  "population": 98462,
+  "borders": []
 }

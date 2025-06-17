@@ -10,5 +10,17 @@
     "COD",
     "RWA",
     "TZA"
+  ],
+  "languages": [
+    "French",
+    "Kirundi"
+  ],
+  "maps": [
+    "https://goo.gl/maps/RXPWoRrB9tfrJpUG7",
+    "https://www.openstreetmap.org/relation/195269"
+  ],
+  "latlng": [
+    -3.5,
+    30
   ]
 }

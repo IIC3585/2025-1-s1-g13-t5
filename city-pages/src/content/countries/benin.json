@@ -11,5 +11,16 @@
     "NER",
     "NGA",
     "TGO"
+  ],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/uMw1BsHEXQYgVFFu6",
+    "https://www.openstreetmap.org/relation/192784"
+  ],
+  "latlng": [
+    9.5,
+    2.25
   ]
 }

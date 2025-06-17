@@ -8,5 +8,16 @@
   "population": 5831404,
   "borders": [
     "DEU"
+  ],
+  "languages": [
+    "Danish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/UddGPN7hAyrtpFiT6",
+    "https://www.openstreetmap.org/relation/50046"
+  ],
+  "latlng": [
+    56,
+    10
   ]
 }

@@ -7,5 +7,17 @@
   "population": 649342,
   "borders": [
     "CHN"
+  ],
+  "languages": [
+    "Portuguese",
+    "Chinese"
+  ],
+  "maps": [
+    "https://goo.gl/maps/whymRdk3dZFfAAs4A",
+    "https://www.openstreetmap.org/relation/1867188"
+  ],
+  "latlng": [
+    22.16666666,
+    113.55
   ]
 }

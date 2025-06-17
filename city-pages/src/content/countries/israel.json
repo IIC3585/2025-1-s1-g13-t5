@@ -12,5 +12,17 @@
     "LBN",
     "PSE",
     "SYR"
+  ],
+  "languages": [
+    "Arabic",
+    "Hebrew"
+  ],
+  "maps": [
+    "https://goo.gl/maps/6UY1AH8XeafVwdC97",
+    "https://www.openstreetmap.org/relation/1473946"
+  ],
+  "latlng": [
+    31.47,
+    35.13
   ]
 }

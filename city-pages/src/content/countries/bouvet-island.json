@@ -5,5 +5,16 @@
   "flag": "https://flagcdn.com/w320/bv.png",
   "region": "Antarctic",
   "population": 0,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "Norwegian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/7WRQAEKZb4uK36yi9",
+    "https://www.openstreetmap.org/way/174996681"
+  ],
+  "latlng": [
+    54.4208,
+    3.3464
+  ]
 }

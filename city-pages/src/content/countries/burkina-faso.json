@@ -13,5 +13,16 @@
     "MLI",
     "NER",
     "TGO"
+  ],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/rKRmpcMbFher2ozb7",
+    "https://www.openstreetmap.org/relation/192783"
+  ],
+  "latlng": [
+    13,
+    -2
   ]
 }

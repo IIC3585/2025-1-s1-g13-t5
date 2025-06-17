@@ -6,5 +6,19 @@
   "flag": "https://flagcdn.com/w320/sg.png",
   "region": "Asia",
   "population": 5685807,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "Chinese",
+    "Malay",
+    "Tamil"
+  ],
+  "maps": [
+    "https://goo.gl/maps/QbQt9Y9b5KFzsahV6",
+    "https://www.openstreetmap.org/relation/536780"
+  ],
+  "latlng": [
+    1.36666666,
+    103.8
+  ]
 }

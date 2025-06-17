@@ -8,5 +8,16 @@
   "population": 33938,
   "borders": [
     "ITA"
+  ],
+  "languages": [
+    "Italian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/rxCVJjm8dVY93RPY8",
+    "https://www.openstreetmap.org/relation/54624"
+  ],
+  "latlng": [
+    43.76666666,
+    12.41666666
   ]
 }

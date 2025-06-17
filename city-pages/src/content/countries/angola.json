@@ -11,5 +11,16 @@
     "COD",
     "ZMB",
     "NAM"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "maps": [
+    "https://goo.gl/maps/q42Qbf1BmQL3fuZg9",
+    "https://www.openstreetmap.org/relation/195267"
+  ],
+  "latlng": [
+    -12.5,
+    18.5
   ]
 }

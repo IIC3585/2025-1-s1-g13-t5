@@ -9,5 +9,16 @@
   "borders": [
     "CHN",
     "IND"
+  ],
+  "languages": [
+    "Nepali"
+  ],
+  "maps": [
+    "https://goo.gl/maps/UMj2zpbQp7B5c3yT7",
+    "https://www.openstreetmap.org/relation/184633"
+  ],
+  "latlng": [
+    28,
+    84
   ]
 }

@@ -11,5 +11,16 @@
     "EST",
     "LTU",
     "RUS"
+  ],
+  "languages": [
+    "Latvian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
+    "https://www.openstreetmap.org/relation/72594"
+  ],
+  "latlng": [
+    57,
+    25
   ]
 }

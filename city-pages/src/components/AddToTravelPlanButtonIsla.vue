@@ -28,6 +28,7 @@ function toggleCountry() {
     travelPlan.value.push(props.country);
   }
   savePlan();
+  window.dispatchEvent(new CustomEvent('travel-plan-updated'));
 }
 
 onMounted(() => {

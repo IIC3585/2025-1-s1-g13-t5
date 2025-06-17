@@ -13,5 +13,16 @@
     "KEN",
     "SDN",
     "UGA"
+  ],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/Zm1AYCXb9HSNF1P27",
+    "https://www.openstreetmap.org/relation/1656678"
+  ],
+  "latlng": [
+    7,
+    30
   ]
 }

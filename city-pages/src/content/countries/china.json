@@ -23,5 +23,16 @@
     "RUS",
     "TJK",
     "VNM"
+  ],
+  "languages": [
+    "Chinese"
+  ],
+  "maps": [
+    "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
+    "https://www.openstreetmap.org/relation/270056"
+  ],
+  "latlng": [
+    35,
+    105
   ]
 }

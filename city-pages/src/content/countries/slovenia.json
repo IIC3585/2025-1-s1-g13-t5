@@ -11,5 +11,16 @@
     "HRV",
     "ITA",
     "HUN"
+  ],
+  "languages": [
+    "Slovene"
+  ],
+  "maps": [
+    "https://goo.gl/maps/7zgFmswcCJh5L5D49",
+    "https://www.openstreetmap.org/relation/218657"
+  ],
+  "latlng": [
+    46.11666666,
+    14.81666666
   ]
 }

@@ -9,5 +9,16 @@
   "borders": [
     "FIN",
     "NOR"
+  ],
+  "languages": [
+    "Swedish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/iqygE491ADVgnBW39",
+    "https://www.openstreetmap.org/relation/52822"
+  ],
+  "latlng": [
+    62,
+    15
   ]
 }

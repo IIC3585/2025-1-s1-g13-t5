@@ -13,5 +13,17 @@
     "GNQ",
     "GAB",
     "NGA"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/JqiipHgFboG3rBJh9",
+    "https://www.openstreetmap.org/relation/192830"
+  ],
+  "latlng": [
+    6,
+    12
   ]
 }

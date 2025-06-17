@@ -13,5 +13,18 @@
     "SAU",
     "SYR",
     "TUR"
+  ],
+  "languages": [
+    "Arabic",
+    "Aramaic",
+    "Sorani"
+  ],
+  "maps": [
+    "https://goo.gl/maps/iL8Bmy1sUCW9fUk18",
+    "https://www.openstreetmap.org/relation/304934"
+  ],
+  "latlng": [
+    33,
+    44
   ]
 }

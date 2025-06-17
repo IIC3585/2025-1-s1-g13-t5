@@ -11,5 +11,30 @@
     "MOZ",
     "ZAF",
     "ZMB"
+  ],
+  "languages": [
+    "Chibarwe",
+    "English",
+    "Kalanga",
+    "Khoisan",
+    "Ndau",
+    "Northern Ndebele",
+    "Chewa",
+    "Shona",
+    "Sotho",
+    "Tonga",
+    "Tswana",
+    "Tsonga",
+    "Venda",
+    "Xhosa",
+    "Zimbabwean Sign Language"
+  ],
+  "maps": [
+    "https://goo.gl/maps/M26BqdwQctqxXS65A",
+    "https://www.openstreetmap.org/relation/195272"
+  ],
+  "latlng": [
+    -20,
+    30
   ]
 }

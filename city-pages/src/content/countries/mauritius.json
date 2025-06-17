@@ -6,5 +6,18 @@
   "flag": "https://flagcdn.com/w320/mu.png",
   "region": "Africa",
   "population": 1265740,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "French",
+    "Mauritian Creole"
+  ],
+  "maps": [
+    "https://goo.gl/maps/PpKtZ4W3tir5iGrz7",
+    "https://www.openstreetmap.org/relation/535828"
+  ],
+  "latlng": [
+    -20.28333333,
+    57.55
+  ]
 }

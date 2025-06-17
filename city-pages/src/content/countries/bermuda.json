@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/bm.png",
   "region": "Americas",
   "population": 63903,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/NLsRGNjTzDghTtAJA",
+    "https://www.openstreetmap.org/relation/1993208"
+  ],
+  "latlng": [
+    32.33333333,
+    -64.75
+  ]
 }

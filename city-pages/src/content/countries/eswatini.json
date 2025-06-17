@@ -9,5 +9,17 @@
   "borders": [
     "MOZ",
     "ZAF"
+  ],
+  "languages": [
+    "English",
+    "Swazi"
+  ],
+  "maps": [
+    "https://goo.gl/maps/cUY79eqQihFSE8hV6",
+    "https://www.openstreetmap.org/relation/88210"
+  ],
+  "latlng": [
+    -26.5,
+    31.5
   ]
 }

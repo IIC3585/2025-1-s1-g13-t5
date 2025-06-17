@@ -10,5 +10,17 @@
     "MOZ",
     "TZA",
     "ZMB"
+  ],
+  "languages": [
+    "English",
+    "Chewa"
+  ],
+  "maps": [
+    "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
+    "https://www.openstreetmap.org/relation/195290"
+  ],
+  "latlng": [
+    -13.5,
+    34
   ]
 }

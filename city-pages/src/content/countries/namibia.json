@@ -11,5 +11,24 @@
     "BWA",
     "ZAF",
     "ZMB"
+  ],
+  "languages": [
+    "Afrikaans",
+    "German",
+    "English",
+    "Herero",
+    "Khoekhoe",
+    "Kwangali",
+    "Lozi",
+    "Ndonga",
+    "Tswana"
+  ],
+  "maps": [
+    "https://goo.gl/maps/oR1i8BFEYX3EY83WA",
+    "https://www.openstreetmap.org/relation/195266"
+  ],
+  "latlng": [
+    -22,
+    17
   ]
 }

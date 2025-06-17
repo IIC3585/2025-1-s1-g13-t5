@@ -8,5 +8,17 @@
   "population": 21919000,
   "borders": [
     "IND"
+  ],
+  "languages": [
+    "Sinhala",
+    "Tamil"
+  ],
+  "maps": [
+    "https://goo.gl/maps/VkPHoeFSfgzRQCDv8",
+    "https://www.openstreetmap.org/relation/536807"
+  ],
+  "latlng": [
+    7,
+    81
   ]
 }

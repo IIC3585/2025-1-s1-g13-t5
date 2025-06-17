@@ -10,5 +10,16 @@
     "BRA",
     "COL",
     "GUY"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/KLCwDN8sec7z2kse9",
+    "https://www.openstreetmap.org/relation/272644"
+  ],
+  "latlng": [
+    8,
+    -66
   ]
 }

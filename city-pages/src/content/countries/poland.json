@@ -14,5 +14,16 @@
     "RUS",
     "SVK",
     "UKR"
+  ],
+  "languages": [
+    "Polish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/gY9Xw4Sf4415P4949",
+    "https://www.openstreetmap.org/relation/49715"
+  ],
+  "latlng": [
+    52,
+    20
   ]
 }

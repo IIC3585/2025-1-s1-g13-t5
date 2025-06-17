@@ -14,5 +14,16 @@
     "ROU",
     "RUS",
     "SVK"
+  ],
+  "languages": [
+    "Ukrainian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
+    "https://www.openstreetmap.org/relation/60199"
+  ],
+  "latlng": [
+    49,
+    32
   ]
 }

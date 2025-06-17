@@ -8,5 +8,16 @@
   "population": 2416664,
   "borders": [
     "SEN"
+  ],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/bbGBCxxtfD2A9Z4m6",
+    "https://www.openstreetmap.org/relation/192774"
+  ],
+  "latlng": [
+    13.46666666,
+    -16.56666666
   ]
 }

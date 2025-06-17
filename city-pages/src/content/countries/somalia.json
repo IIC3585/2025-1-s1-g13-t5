@@ -10,5 +10,17 @@
     "DJI",
     "ETH",
     "KEN"
+  ],
+  "languages": [
+    "Arabic",
+    "Somali"
+  ],
+  "maps": [
+    "https://goo.gl/maps/8of8q7D1a8p7R6Fc9",
+    "https://www.openstreetmap.org/relation/192799"
+  ],
+  "latlng": [
+    10,
+    49
   ]
 }

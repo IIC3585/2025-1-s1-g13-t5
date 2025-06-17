@@ -6,5 +6,18 @@
   "flag": "https://flagcdn.com/w320/fj.png",
   "region": "Oceania",
   "population": 896444,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "Fijian",
+    "Fiji Hindi"
+  ],
+  "maps": [
+    "https://goo.gl/maps/r9fhDqoLZdg1zmE99",
+    "https://www.openstreetmap.org/relation/571747"
+  ],
+  "latlng": [
+    -17.7134,
+    178.065
+  ]
 }

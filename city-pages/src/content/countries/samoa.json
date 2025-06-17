@@ -6,5 +6,17 @@
   "flag": "https://flagcdn.com/w320/ws.png",
   "region": "Oceania",
   "population": 198410,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "Samoan"
+  ],
+  "maps": [
+    "https://goo.gl/maps/CFC9fEFP9cfkYUBF9",
+    "https://www.openstreetmap.org/relation/1872673"
+  ],
+  "latlng": [
+    -13.58333333,
+    -172.33333333
+  ]
 }

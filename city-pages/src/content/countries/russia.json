@@ -21,5 +21,16 @@
     "NOR",
     "POL",
     "UKR"
+  ],
+  "languages": [
+    "Russian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/4F4PpDhGJgVvLby57",
+    "https://www.openstreetmap.org/relation/60189#map=3/65.15/105.29"
+  ],
+  "latlng": [
+    60,
+    100
   ]
 }

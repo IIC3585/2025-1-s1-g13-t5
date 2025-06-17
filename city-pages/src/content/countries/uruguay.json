@@ -9,5 +9,16 @@
   "borders": [
     "ARG",
     "BRA"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/tiQ9Baekb1jQtDSD9",
+    "https://www.openstreetmap.org/relation/287072"
+  ],
+  "latlng": [
+    -33,
+    -56
   ]
 }

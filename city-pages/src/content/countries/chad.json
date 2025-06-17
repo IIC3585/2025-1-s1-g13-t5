@@ -13,5 +13,17 @@
     "NER",
     "NGA",
     "SDN"
+  ],
+  "languages": [
+    "Arabic",
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/ziUdAZ8skuNfx5Hx7",
+    "https://www.openstreetmap.org/relation/2361304"
+  ],
+  "latlng": [
+    15,
+    19
   ]
 }

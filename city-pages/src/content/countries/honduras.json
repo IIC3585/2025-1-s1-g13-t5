@@ -10,5 +10,16 @@
     "GTM",
     "SLV",
     "NIC"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/BbeJK8Sk2VkMHbdF8",
+    "https://www.openstreetmap.org/relation/287670"
+  ],
+  "latlng": [
+    15,
+    -86.5
   ]
 }

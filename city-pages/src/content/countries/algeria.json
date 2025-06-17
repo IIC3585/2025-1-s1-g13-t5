@@ -14,5 +14,16 @@
     "MRT",
     "MLI",
     "MAR"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/RsAyAfyaiNVb8DpW8",
+    "https://www.openstreetmap.org/relation/192756"
+  ],
+  "latlng": [
+    28,
+    3
   ]
 }

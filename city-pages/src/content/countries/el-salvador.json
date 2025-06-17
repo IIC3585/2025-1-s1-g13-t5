@@ -9,5 +9,16 @@
   "borders": [
     "GTM",
     "HND"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/cZnCEi5sEMQtKKcB7",
+    "https://www.openstreetmap.org/relation/1520612"
+  ],
+  "latlng": [
+    13.83333333,
+    -88.91666666
   ]
 }

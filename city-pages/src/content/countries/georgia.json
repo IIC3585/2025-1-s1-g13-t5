@@ -11,5 +11,16 @@
     "AZE",
     "RUS",
     "TUR"
+  ],
+  "languages": [
+    "Georgian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/bvCaGBePR1ZEDK5cA",
+    "https://www.openstreetmap.org/relation/28699"
+  ],
+  "latlng": [
+    42,
+    43.5
   ]
 }

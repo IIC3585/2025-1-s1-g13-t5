@@ -15,5 +15,17 @@
     "RWA",
     "UGA",
     "ZMB"
+  ],
+  "languages": [
+    "English",
+    "Swahili"
+  ],
+  "maps": [
+    "https://goo.gl/maps/NWYMqZYXte4zGZ2Q8",
+    "https://www.openstreetmap.org/relation/195270"
+  ],
+  "latlng": [
+    -6,
+    35
   ]
 }

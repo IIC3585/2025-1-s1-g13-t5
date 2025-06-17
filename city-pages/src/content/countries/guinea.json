@@ -13,5 +13,16 @@
     "MLI",
     "SEN",
     "SLE"
+  ],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/8J5oM5sA4Ayr1ZYGA",
+    "https://www.openstreetmap.org/relation/192778"
+  ],
+  "latlng": [
+    11,
+    -10
   ]
 }

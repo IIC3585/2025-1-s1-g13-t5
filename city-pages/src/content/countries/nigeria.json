@@ -11,5 +11,16 @@
     "CMR",
     "TCD",
     "NER"
+  ],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/LTn417qWwBPFszuV9",
+    "https://www.openstreetmap.org/relation/192787"
+  ],
+  "latlng": [
+    10,
+    8
   ]
 }

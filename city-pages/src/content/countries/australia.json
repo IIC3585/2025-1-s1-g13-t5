@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/au.png",
   "region": "Oceania",
   "population": 25687041,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/DcjaDa7UbhnZTndH6",
+    "https://www.openstreetmap.org/relation/80500"
+  ],
+  "latlng": [
+    -27,
+    133
+  ]
 }

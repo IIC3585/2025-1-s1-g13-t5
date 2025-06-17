@@ -9,5 +9,16 @@
   "borders": [
     "CHN",
     "IND"
+  ],
+  "languages": [
+    "Dzongkha"
+  ],
+  "maps": [
+    "https://goo.gl/maps/VEfXXBftTFLUpNgp8",
+    "https://www.openstreetmap.org/relation/184629"
+  ],
+  "latlng": [
+    27.5,
+    90.5
   ]
 }

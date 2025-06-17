@@ -9,5 +9,17 @@
   "borders": [
     "ISR",
     "SYR"
+  ],
+  "languages": [
+    "Arabic",
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/Sz5VCU8UFBqMyTdc9",
+    "https://www.openstreetmap.org/relation/184843"
+  ],
+  "latlng": [
+    33.83333333,
+    35.83333333
   ]
 }

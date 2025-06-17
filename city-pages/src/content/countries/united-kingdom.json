@@ -8,5 +8,16 @@
   "population": 67215293,
   "borders": [
     "IRL"
+  ],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
+    "https://www.openstreetmap.org/relation/62149"
+  ],
+  "latlng": [
+    54,
+    -2
   ]
 }

@@ -13,5 +13,16 @@
     "SOM",
     "SSD",
     "SDN"
+  ],
+  "languages": [
+    "Amharic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/2Q4hQWCbhuZLj3fG6",
+    "https://www.openstreetmap.org/relation/192800"
+  ],
+  "latlng": [
+    8,
+    38
   ]
 }

@@ -14,5 +14,16 @@
     "PAK",
     "TUR",
     "TKM"
+  ],
+  "languages": [
+    "Persian (Farsi)"
+  ],
+  "maps": [
+    "https://goo.gl/maps/dMgEGuacBPGYQnjY7",
+    "https://www.openstreetmap.org/relation/304938"
+  ],
+  "latlng": [
+    32,
+    53
   ]
 }

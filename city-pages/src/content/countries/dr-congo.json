@@ -16,5 +16,20 @@
     "TZA",
     "UGA",
     "ZMB"
+  ],
+  "languages": [
+    "French",
+    "Kikongo",
+    "Lingala",
+    "Tshiluba",
+    "Swahili"
+  ],
+  "maps": [
+    "https://goo.gl/maps/KfhNVn6VqdZXWu8n9",
+    "https://www.openstreetmap.org/relation/192795"
+  ],
+  "latlng": [
+    0,
+    25
   ]
 }

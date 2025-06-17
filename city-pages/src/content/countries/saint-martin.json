@@ -8,5 +8,16 @@
   "population": 38659,
   "borders": [
     "SXM"
+  ],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/P9ho9QuJ9EAR28JEA",
+    "https://www.openstreetmap.org/relation/63064"
+  ],
+  "latlng": [
+    18.0708,
+    -63.0501
   ]
 }

@@ -6,5 +6,18 @@
   "flag": "https://flagcdn.com/w320/tk.png",
   "region": "Oceania",
   "population": 1411,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "Samoan",
+    "Tokelauan"
+  ],
+  "maps": [
+    "https://goo.gl/maps/Ap5qN8qien6pT9UN6",
+    "https://www.openstreetmap.org/relation/2186600"
+  ],
+  "latlng": [
+    -9,
+    -172
+  ]
 }

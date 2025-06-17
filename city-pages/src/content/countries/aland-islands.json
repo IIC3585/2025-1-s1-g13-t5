@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/ax.png",
   "region": "Europe",
   "population": 29458,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "Swedish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/ewFb3vYsfUmVCoSb8",
+    "https://www.openstreetmap.org/relation/1650407"
+  ],
+  "latlng": [
+    60.116667,
+    19.9
+  ]
 }

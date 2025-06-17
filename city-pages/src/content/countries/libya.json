@@ -13,5 +13,16 @@
     "NER",
     "SDN",
     "TUN"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
+    "openstreetmap.org/relation/192758"
+  ],
+  "latlng": [
+    25,
+    17
   ]
 }

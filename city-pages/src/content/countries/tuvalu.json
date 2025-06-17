@@ -6,5 +6,17 @@
   "flag": "https://flagcdn.com/w320/tv.png",
   "region": "Oceania",
   "population": 11792,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "Tuvaluan"
+  ],
+  "maps": [
+    "https://goo.gl/maps/LbuUxtkgm1dfN1Pn6",
+    "https://www.openstreetmap.org/relation/2177266"
+  ],
+  "latlng": [
+    -8,
+    178
+  ]
 }

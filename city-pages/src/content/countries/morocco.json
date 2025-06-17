@@ -10,5 +10,17 @@
     "DZA",
     "ESH",
     "ESP"
+  ],
+  "languages": [
+    "Arabic",
+    "Berber"
+  ],
+  "maps": [
+    "https://goo.gl/maps/6oMv3dyBZg3iaXQ5A",
+    "https://www.openstreetmap.org/relation/3630439"
+  ],
+  "latlng": [
+    32,
+    -5
   ]
 }

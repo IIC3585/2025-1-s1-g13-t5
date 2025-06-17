@@ -9,5 +9,16 @@
   "borders": [
     "CHN",
     "RUS"
+  ],
+  "languages": [
+    "Mongolian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/A1X7bMCKThBDNjzH6",
+    "https://www.openstreetmap.org/relation/161033"
+  ],
+  "latlng": [
+    46,
+    105
   ]
 }

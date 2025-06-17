@@ -6,5 +6,18 @@
   "flag": "https://flagcdn.com/w320/gu.png",
   "region": "Oceania",
   "population": 168783,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "Chamorro",
+    "English",
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/Xfnq2i279b18cH3C9",
+    "https://www.openstreetmap.org/relation/306001"
+  ],
+  "latlng": [
+    13.46666666,
+    144.78333333
+  ]
 }

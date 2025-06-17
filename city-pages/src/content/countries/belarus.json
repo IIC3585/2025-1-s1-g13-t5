@@ -12,5 +12,17 @@
     "POL",
     "RUS",
     "UKR"
+  ],
+  "languages": [
+    "Belarusian",
+    "Russian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/PJUDU3EBPSszCQcu6",
+    "https://www.openstreetmap.org/relation/59065"
+  ],
+  "latlng": [
+    53,
+    28
   ]
 }

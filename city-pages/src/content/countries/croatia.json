@@ -12,5 +12,16 @@
     "MNE",
     "SRB",
     "SVN"
+  ],
+  "languages": [
+    "Croatian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/qSG6xTKUmrYpwmGQ6",
+    "https://www.openstreetmap.org/relation/214885"
+  ],
+  "latlng": [
+    45.16666666,
+    15.5
   ]
 }

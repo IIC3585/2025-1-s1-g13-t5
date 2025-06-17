@@ -8,5 +8,17 @@
   "population": 38005238,
   "borders": [
     "USA"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/jmEVLugreeqiZXxbA",
+    "https://www.openstreetmap.org/relation/1428125"
+  ],
+  "latlng": [
+    60,
+    -95
   ]
 }

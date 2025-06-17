@@ -10,5 +10,17 @@
     "ERI",
     "ETH",
     "SOM"
+  ],
+  "languages": [
+    "Arabic",
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/V1HWfzN3bS1kwf4C6",
+    "https://www.openstreetmap.org/relation/192801"
+  ],
+  "latlng": [
+    11.5,
+    43
   ]
 }

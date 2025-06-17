@@ -10,5 +10,16 @@
     "BRA",
     "SUR",
     "VEN"
+  ],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/DFsme2xEeugUAsCx5",
+    "https://www.openstreetmap.org/relation/287083"
+  ],
+  "latlng": [
+    5,
+    -59
   ]
 }

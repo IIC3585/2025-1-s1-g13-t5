@@ -10,5 +10,18 @@
     "BEL",
     "FRA",
     "DEU"
+  ],
+  "languages": [
+    "German",
+    "French",
+    "Luxembourgish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/L6b2AgndgHprt2Ko9",
+    "https://www.openstreetmap.org/relation/2171347#map=10/49.8167/6.1335"
+  ],
+  "latlng": [
+    49.75,
+    6.16666666
   ]
 }

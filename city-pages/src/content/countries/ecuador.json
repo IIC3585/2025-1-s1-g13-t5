@@ -9,5 +9,16 @@
   "borders": [
     "COL",
     "PER"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
+    "https://www.openstreetmap.org/relation/108089"
+  ],
+  "latlng": [
+    -2,
+    -77.5
   ]
 }

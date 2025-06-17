@@ -13,5 +13,17 @@
     "SVN",
     "CHE",
     "VAT"
+  ],
+  "languages": [
+    "Italian",
+    "Catalan"
+  ],
+  "maps": [
+    "https://goo.gl/maps/8M1K27TDj7StTRTq8",
+    "https://www.openstreetmap.org/relation/365331"
+  ],
+  "latlng": [
+    42.83333333,
+    12.83333333
   ]
 }

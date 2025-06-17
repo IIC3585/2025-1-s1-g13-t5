@@ -8,5 +8,16 @@
   "population": 437483,
   "borders": [
     "MYS"
+  ],
+  "languages": [
+    "Malay"
+  ],
+  "maps": [
+    "https://goo.gl/maps/4jb4CqBXhr8vNh579",
+    "https://www.openstreetmap.org/relation/2103120"
+  ],
+  "latlng": [
+    4.5,
+    114.66666666
   ]
 }

@@ -12,5 +12,16 @@
     "IRN",
     "RUS",
     "TUR"
+  ],
+  "languages": [
+    "Azerbaijani"
+  ],
+  "maps": [
+    "https://goo.gl/maps/az3Zz7ar2aoB9AUc6",
+    "https://www.openstreetmap.org/relation/364110"
+  ],
+  "latlng": [
+    40.5,
+    47.5
   ]
 }

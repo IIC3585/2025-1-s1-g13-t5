@@ -9,5 +9,16 @@
   "borders": [
     "ROU",
     "UKR"
+  ],
+  "languages": [
+    "Romanian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/JjmyUuULujnDeFPf7",
+    "https://www.openstreetmap.org/relation/58974"
+  ],
+  "latlng": [
+    47,
+    29
   ]
 }

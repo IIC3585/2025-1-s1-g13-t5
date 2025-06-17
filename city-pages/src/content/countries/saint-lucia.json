@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/lc.png",
   "region": "Americas",
   "population": 183629,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
+    "https://www.openstreetmap.org/relation/550728"
+  ],
+  "latlng": [
+    13.88333333,
+    -60.96666666
+  ]
 }

@@ -8,5 +8,18 @@
   "population": 8947027,
   "borders": [
     "IDN"
+  ],
+  "languages": [
+    "English",
+    "Hiri Motu",
+    "Tok Pisin"
+  ],
+  "maps": [
+    "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A",
+    "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A"
+  ],
+  "latlng": [
+    -6,
+    147
   ]
 }

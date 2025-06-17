@@ -12,5 +12,17 @@
     "RWA",
     "SSD",
     "TZA"
+  ],
+  "languages": [
+    "English",
+    "Swahili"
+  ],
+  "maps": [
+    "https://goo.gl/maps/Y7812hFiGa8LD9N68",
+    "https://www.openstreetmap.org/relation/192796"
+  ],
+  "latlng": [
+    1,
+    32
   ]
 }

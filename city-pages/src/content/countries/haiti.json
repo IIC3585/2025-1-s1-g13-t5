@@ -8,5 +8,17 @@
   "population": 11402533,
   "borders": [
     "DOM"
+  ],
+  "languages": [
+    "French",
+    "Haitian Creole"
+  ],
+  "maps": [
+    "https://goo.gl/maps/9o13xtjuUdqFnHbn9",
+    "https://www.openstreetmap.org/relation/307829"
+  ],
+  "latlng": [
+    19,
+    -72.41666666
   ]
 }

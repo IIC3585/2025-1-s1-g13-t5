@@ -11,5 +11,16 @@
     "GRC",
     "MKD",
     "UNK"
+  ],
+  "languages": [
+    "Albanian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/BzN9cTuj68ZA8SyZ8",
+    "https://www.openstreetmap.org/relation/53292"
+  ],
+  "latlng": [
+    41,
+    20
   ]
 }

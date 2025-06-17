@@ -10,5 +10,16 @@
     "KHM",
     "CHN",
     "LAO"
+  ],
+  "languages": [
+    "Vietnamese"
+  ],
+  "maps": [
+    "https://goo.gl/maps/PCpVt9WzdJ9A9nEZ9",
+    "https://www.openstreetmap.org/relation/49915"
+  ],
+  "latlng": [
+    16.16666666,
+    107.83333333
   ]
 }

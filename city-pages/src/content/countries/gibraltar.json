@@ -8,5 +8,16 @@
   "population": 33691,
   "borders": [
     "ESP"
+  ],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/CEoHAs1t6byCBhHFA",
+    "https://www.openstreetmap.org/relation/1278736"
+  ],
+  "latlng": [
+    36.13333333,
+    -5.35
   ]
 }

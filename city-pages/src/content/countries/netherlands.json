@@ -9,5 +9,16 @@
   "borders": [
     "BEL",
     "DEU"
+  ],
+  "languages": [
+    "Dutch"
+  ],
+  "maps": [
+    "https://goo.gl/maps/Hv6zQswGhFxoVVBm6",
+    "https://www.openstreetmap.org/relation/47796"
+  ],
+  "latlng": [
+    52.5,
+    5.75
   ]
 }

@@ -14,5 +14,16 @@
     "SVK",
     "SVN",
     "UKR"
+  ],
+  "languages": [
+    "Hungarian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+    "https://www.openstreetmap.org/relation/21335"
+  ],
+  "latlng": [
+    47,
+    20
   ]
 }

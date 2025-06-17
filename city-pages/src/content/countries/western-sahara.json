@@ -10,5 +10,18 @@
     "DZA",
     "MRT",
     "MAR"
+  ],
+  "languages": [
+    "Berber",
+    "Hassaniya",
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/7nU3mB69vP6zQp7A8",
+    "https://www.openstreetmap.org/relation/5441968"
+  ],
+  "latlng": [
+    24.5,
+    -13
   ]
 }

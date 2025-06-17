@@ -6,5 +6,18 @@
   "flag": "https://flagcdn.com/w320/je.png",
   "region": "Europe",
   "population": 100800,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "French",
+    "Jèrriais"
+  ],
+  "maps": [
+    "https://goo.gl/maps/rXG8GZZtsqK92kTCA",
+    "https://www.openstreetmap.org/relation/367988"
+  ],
+  "latlng": [
+    49.25,
+    -2.16666666
+  ]
 }

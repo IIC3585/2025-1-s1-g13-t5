@@ -17,5 +17,16 @@
     "SUR",
     "URY",
     "VEN"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "maps": [
+    "https://goo.gl/maps/waCKk21HeeqFzkNC9",
+    "https://www.openstreetmap.org/relation/59470"
+  ],
+  "latlng": [
+    -10,
+    -55
   ]
 }

@@ -12,5 +12,16 @@
     "GIN",
     "LBR",
     "MLI"
+  ],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/wKsmN7f5qAeNtGjP6",
+    "https://www.openstreetmap.org/relation/192779"
+  ],
+  "latlng": [
+    8,
+    -5
   ]
 }

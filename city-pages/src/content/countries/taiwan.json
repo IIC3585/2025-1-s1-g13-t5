@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/tw.png",
   "region": "Asia",
   "population": 23503349,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "Chinese"
+  ],
+  "maps": [
+    "https://goo.gl/maps/HgMKFQjNadF3Wa6B6",
+    "https://www.openstreetmap.org/relation/449220"
+  ],
+  "latlng": [
+    23.5,
+    121
+  ]
 }

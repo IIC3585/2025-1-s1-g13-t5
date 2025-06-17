@@ -15,5 +15,16 @@
     "SVK",
     "SVN",
     "CHE"
+  ],
+  "languages": [
+    "German"
+  ],
+  "maps": [
+    "https://goo.gl/maps/pCWpWQhznHyRzQcu9",
+    "https://www.openstreetmap.org/relation/16239"
+  ],
+  "latlng": [
+    47.33333333,
+    13.33333333
   ]
 }

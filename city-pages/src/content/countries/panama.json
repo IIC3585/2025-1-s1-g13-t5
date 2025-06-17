@@ -9,5 +9,16 @@
   "borders": [
     "COL",
     "CRI"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
+    "https://www.openstreetmap.org/relation/287668"
+  ],
+  "latlng": [
+    9,
+    -80
   ]
 }

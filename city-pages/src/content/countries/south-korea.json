@@ -8,5 +8,16 @@
   "population": 51780579,
   "borders": [
     "PRK"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "maps": [
+    "https://goo.gl/maps/7ecjaJXefjAQhxjGA",
+    "https://www.openstreetmap.org/relation/307756"
+  ],
+  "latlng": [
+    37,
+    127.5
   ]
 }

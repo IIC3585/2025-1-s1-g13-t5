@@ -1,7 +1,21 @@
 ---
-import TravelPlanViewIsla from '../../src/components/TravelPlanViewIsla.vue';
+import Layout from '../layouts/Layout.astro';
+import TravelPlanViewIsla from '../components/TravelPlanViewIsla.vue';
+import CalculateDistance from '../../src/components/CalculateDistance.vue';
 ---
 
-<div>
-  <TravelPlanViewIsla client:load />
-</div>
+<Layout>
+  <div class="container py-5">
+    <h1 class="text-center mb-4">Mi Recorrido</h1>
+
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <TravelPlanViewIsla client:load />
+      </div>
+      <div class="col-md-6 mb-4">
+        <CalculateDistance client:load />
+      </div>
+    </div>
+  </div>
+</Layout>
+

@@ -6,5 +6,18 @@
   "flag": "https://flagcdn.com/w320/nz.png",
   "region": "Oceania",
   "population": 5084300,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "Māori",
+    "New Zealand Sign Language"
+  ],
+  "maps": [
+    "https://goo.gl/maps/xXiDQo65dwdpw9iu8",
+    "https://www.openstreetmap.org/relation/556706#map=5/-46.710/172.046"
+  ],
+  "latlng": [
+    -41,
+    174
+  ]
 }

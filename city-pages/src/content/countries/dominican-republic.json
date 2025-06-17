@@ -8,5 +8,16 @@
   "population": 10847904,
   "borders": [
     "HTI"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/soxooTHxEeiAbn3UA",
+    "https://www.openstreetmap.org/relation/307828"
+  ],
+  "latlng": [
+    19,
+    -70.66666666
   ]
 }

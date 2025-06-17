@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/sj.png",
   "region": "Europe",
   "population": 2562,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "Norwegian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/L2wyyn3cQ16PzQ5J8",
+    "https://www.openstreetmap.org/relation/1337397"
+  ],
+  "latlng": [
+    78,
+    20
+  ]
 }

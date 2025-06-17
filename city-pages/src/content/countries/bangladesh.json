@@ -9,5 +9,16 @@
   "borders": [
     "MMR",
     "IND"
+  ],
+  "languages": [
+    "Bengali"
+  ],
+  "maps": [
+    "https://goo.gl/maps/op6gmLbHcvv6rLhH6",
+    "https://www.openstreetmap.org/relation/184640"
+  ],
+  "latlng": [
+    24,
+    90
   ]
 }

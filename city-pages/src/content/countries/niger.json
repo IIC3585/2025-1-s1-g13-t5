@@ -14,5 +14,16 @@
     "LBY",
     "MLI",
     "NGA"
+  ],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/VKNU2TLsZcgxM49c8",
+    "https://www.openstreetmap.org/relation/192786"
+  ],
+  "latlng": [
+    16,
+    8
   ]
 }

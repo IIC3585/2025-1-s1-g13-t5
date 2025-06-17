@@ -11,5 +11,16 @@
     "LVA",
     "POL",
     "RUS"
+  ],
+  "languages": [
+    "Lithuanian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/dd1s9rrLjrK2G8yY6",
+    "https://www.openstreetmap.org/relation/72596"
+  ],
+  "latlng": [
+    56,
+    24
   ]
 }

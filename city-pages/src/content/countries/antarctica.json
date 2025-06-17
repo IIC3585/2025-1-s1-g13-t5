@@ -5,5 +5,14 @@
   "flag": "https://flagcdn.com/w320/aq.png",
   "region": "Antarctic",
   "population": 1000,
-  "borders": []
+  "borders": [],
+  "languages": [],
+  "maps": [
+    "https://goo.gl/maps/kyBuJriu4itiXank7",
+    "https://www.openstreetmap.org/node/36966060"
+  ],
+  "latlng": [
+    -90,
+    0
+  ]
 }

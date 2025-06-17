@@ -8,5 +8,17 @@
   "population": 4994724,
   "borders": [
     "GBR"
+  ],
+  "languages": [
+    "English",
+    "Irish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/hxd1BKxgpchStzQC6",
+    "https://www.openstreetmap.org/relation/62273"
+  ],
+  "latlng": [
+    53,
+    -8
   ]
 }

@@ -8,5 +8,18 @@
   "population": 40812,
   "borders": [
     "MAF"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Dutch"
+  ],
+  "maps": [
+    "https://goo.gl/maps/DjvcESy1a1oGEZuNA",
+    "https://www.openstreetmap.org/relation/1231790"
+  ],
+  "latlng": [
+    18.033333,
+    -63.05
   ]
 }

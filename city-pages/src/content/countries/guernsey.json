@@ -6,5 +6,18 @@
   "flag": "https://flagcdn.com/w320/gg.png",
   "region": "Europe",
   "population": 62999,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "French",
+    "Guernésiais"
+  ],
+  "maps": [
+    "https://goo.gl/maps/6kXnQU5QvEZMD9VB7",
+    "https://www.openstreetmap.org/relation/270009"
+  ],
+  "latlng": [
+    49.46666666,
+    -2.58333333
+  ]
 }

@@ -10,5 +10,16 @@
     "CMR",
     "COG",
     "GNQ"
+  ],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/vyRSkqw1H1fnq4ry6",
+    "https://www.openstreetmap.org/relation/192793"
+  ],
+  "latlng": [
+    -1,
+    11.75
   ]
 }

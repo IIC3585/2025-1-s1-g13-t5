@@ -11,5 +11,18 @@
     "COD",
     "TZA",
     "UGA"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Kinyarwanda"
+  ],
+  "maps": [
+    "https://goo.gl/maps/j5xb5r7CLqjYbyP86",
+    "https://www.openstreetmap.org/relation/171496"
+  ],
+  "latlng": [
+    -2,
+    30
   ]
 }

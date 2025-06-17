@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/gs.png",
   "region": "Antarctic",
   "population": 30,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/mJzdaBwKBbm2B81q9",
+    "https://www.openstreetmap.org/relation/1983629"
+  ],
+  "latlng": [
+    -54.5,
+    -37
+  ]
 }

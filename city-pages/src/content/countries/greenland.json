@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/gl.png",
   "region": "Americas",
   "population": 56367,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "Greenlandic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/j3289UPEQXt1ceSy8",
+    "https://www.openstreetmap.org/relation/2184073"
+  ],
+  "latlng": [
+    72,
+    -40
+  ]
 }

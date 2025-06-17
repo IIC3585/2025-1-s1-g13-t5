@@ -11,5 +11,17 @@
     "IRN",
     "KAZ",
     "UZB"
+  ],
+  "languages": [
+    "Russian",
+    "Turkmen"
+  ],
+  "maps": [
+    "https://goo.gl/maps/cgfUcaQHSWKuqeKk9",
+    "https://www.openstreetmap.org/relation/223026"
+  ],
+  "latlng": [
+    40,
+    60
   ]
 }

@@ -13,5 +13,26 @@
     "NAM",
     "SWZ",
     "ZWE"
+  ],
+  "languages": [
+    "Afrikaans",
+    "English",
+    "Southern Ndebele",
+    "Northern Sotho",
+    "Southern Sotho",
+    "Swazi",
+    "Tswana",
+    "Tsonga",
+    "Venda",
+    "Xhosa",
+    "Zulu"
+  ],
+  "maps": [
+    "https://goo.gl/maps/CLCZ1R8Uz1KpYhRv6",
+    "https://www.openstreetmap.org/relation/87565"
+  ],
+  "latlng": [
+    -29,
+    24
   ]
 }

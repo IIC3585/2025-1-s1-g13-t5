@@ -6,5 +6,18 @@
   "flag": "https://flagcdn.com/w320/sc.png",
   "region": "Africa",
   "population": 98462,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "Seychellois Creole",
+    "English",
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/aqCcy2TKh5TV5MAX8",
+    "https://www.openstreetmap.org/relation/536765"
+  ],
+  "latlng": [
+    -4.58333333,
+    55.66666666
+  ]
 }

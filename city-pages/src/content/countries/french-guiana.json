@@ -9,5 +9,16 @@
   "borders": [
     "BRA",
     "SUR"
+  ],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/NJawFwMzG7YtCrVP7",
+    "https://www.openstreetmap.org/relation/2502058"
+  ],
+  "latlng": [
+    4,
+    -53
   ]
 }

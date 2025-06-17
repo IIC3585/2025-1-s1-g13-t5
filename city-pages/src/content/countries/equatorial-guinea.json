@@ -9,5 +9,18 @@
   "borders": [
     "CMR",
     "GAB"
+  ],
+  "languages": [
+    "French",
+    "Portuguese",
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/ucWfFd8aW1FbGMva9",
+    "https://www.openstreetmap.org/relation/192791"
+  ],
+  "latlng": [
+    2,
+    10
   ]
 }

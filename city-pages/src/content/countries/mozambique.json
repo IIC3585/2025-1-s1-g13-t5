@@ -13,5 +13,16 @@
     "TZA",
     "ZMB",
     "ZWE"
+  ],
+  "languages": [
+    "Portuguese"
+  ],
+  "maps": [
+    "https://goo.gl/maps/xCLcY9fzU6x4Pueu5",
+    "https://www.openstreetmap.org/relation/195273"
+  ],
+  "latlng": [
+    -18.25,
+    35
   ]
 }

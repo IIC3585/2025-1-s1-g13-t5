@@ -10,5 +10,16 @@
     "ARG",
     "BOL",
     "PER"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
+    "https://www.openstreetmap.org/relation/167454"
+  ],
+  "latlng": [
+    -30,
+    -71
   ]
 }

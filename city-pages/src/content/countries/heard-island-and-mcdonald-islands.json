@@ -5,5 +5,16 @@
   "flag": "https://flagcdn.com/w320/hm.png",
   "region": "Antarctic",
   "population": 0,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/k5FBAiVaVyozuYeA7",
+    "https://www.openstreetmap.org/relation/2177227"
+  ],
+  "latlng": [
+    -53.0818,
+    73.5042
+  ]
 }

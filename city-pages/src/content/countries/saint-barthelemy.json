@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/bl.png",
   "region": "Americas",
   "population": 4255,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/Mc7GqH466S7AAk297",
+    "https://www.openstreetmap.org/relation/7552779"
+  ],
+  "latlng": [
+    18.5,
+    -63.41666666
+  ]
 }

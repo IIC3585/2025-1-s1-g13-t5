@@ -15,5 +15,16 @@
     "IRN",
     "IRQ",
     "SYR"
+  ],
+  "languages": [
+    "Turkish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/dXFFraiUDfcB6Quk6",
+    "https://www.openstreetmap.org/relation/174737"
+  ],
+  "latlng": [
+    39,
+    35
   ]
 }

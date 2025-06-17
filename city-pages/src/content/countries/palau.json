@@ -6,5 +6,17 @@
   "flag": "https://flagcdn.com/w320/pw.png",
   "region": "Oceania",
   "population": 18092,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "Palauan"
+  ],
+  "maps": [
+    "https://goo.gl/maps/MVasQBbUkQP7qQDR9",
+    "https://www.openstreetmap.org/relation/571805"
+  ],
+  "latlng": [
+    7.5,
+    134.5
+  ]
 }

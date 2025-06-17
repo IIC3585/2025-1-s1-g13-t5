@@ -9,5 +9,17 @@
   "borders": [
     "GIN",
     "SEN"
+  ],
+  "languages": [
+    "Portuguese",
+    "Upper Guinea Creole"
+  ],
+  "maps": [
+    "https://goo.gl/maps/5Wyaz17miUc1zLc67",
+    "https://www.openstreetmap.org/relation/192776"
+  ],
+  "latlng": [
+    12,
+    -15
   ]
 }

@@ -11,5 +11,17 @@
     "MKD",
     "MNE",
     "SRB"
+  ],
+  "languages": [
+    "Albanian",
+    "Serbian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/CSC4Yc8SWPgburuD9",
+    "https://www.openstreetmap.org/relation/2088990"
+  ],
+  "latlng": [
+    42.666667,
+    21.166667
   ]
 }

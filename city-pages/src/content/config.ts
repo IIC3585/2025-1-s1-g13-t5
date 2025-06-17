@@ -12,6 +12,9 @@ const countriesCollection = defineCollection({
     region: z.string(),
     population: z.number(),
     borders: z.array(z.string()).default([]),
+    languages: z.array(z.string()).default([]),
+    maps: z.array(z.string()).default([]),
+    latlng: z.array(z.number()).length(2).default([0, 0]),
   }),
 });
 

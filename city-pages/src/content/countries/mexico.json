@@ -10,5 +10,16 @@
     "BLZ",
     "GTM",
     "USA"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/s5g7imNPMDEePxzbA",
+    "https://www.openstreetmap.org/relation/114686"
+  ],
+  "latlng": [
+    23,
+    -102
   ]
 }

@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/nc.png",
   "region": "Oceania",
   "population": 271960,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/cBhtCeMdob4U7FRU9",
+    "https://www.openstreetmap.org/relation/3407643"
+  ],
+  "latlng": [
+    -21.5,
+    165.5
+  ]
 }

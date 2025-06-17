@@ -11,5 +11,16 @@
     "GEO",
     "IRN",
     "TUR"
+  ],
+  "languages": [
+    "Armenian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/azWUtK9bUQYEyccbA",
+    "https://www.openstreetmap.org/relation/364066"
+  ],
+  "latlng": [
+    40,
+    45
   ]
 }

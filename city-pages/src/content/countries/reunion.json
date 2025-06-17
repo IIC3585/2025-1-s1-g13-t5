@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/re.png",
   "region": "Africa",
   "population": 840974,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/wWpBrXsp8UHVbah29",
+    "https://www.openstreetmap.org/relation/1785276"
+  ],
+  "latlng": [
+    -21.15,
+    55.5
+  ]
 }

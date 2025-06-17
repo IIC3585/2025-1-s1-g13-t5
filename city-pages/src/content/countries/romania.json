@@ -12,5 +12,16 @@
     "MDA",
     "SRB",
     "UKR"
+  ],
+  "languages": [
+    "Romanian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/845hAgCf1mDkN3vr7",
+    "https://www.openstreetmap.org/relation/90689"
+  ],
+  "latlng": [
+    46,
+    25
   ]
 }

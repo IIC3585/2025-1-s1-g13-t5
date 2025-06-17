@@ -6,5 +6,17 @@
   "flag": "https://flagcdn.com/w320/ck.png",
   "region": "Oceania",
   "population": 18100,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "Cook Islands Māori"
+  ],
+  "maps": [
+    "https://goo.gl/maps/nrGZrvWRGB4WHgDC9",
+    "https://www.openstreetmap.org/relation/2184233"
+  ],
+  "latlng": [
+    -21.23333333,
+    -159.76666666
+  ]
 }

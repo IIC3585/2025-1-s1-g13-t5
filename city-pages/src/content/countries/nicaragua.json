@@ -9,5 +9,16 @@
   "borders": [
     "CRI",
     "HND"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/P77LaEVkKJKXneRC6",
+    "https://www.openstreetmap.org/relation/287666"
+  ],
+  "latlng": [
+    13,
+    -85
   ]
 }

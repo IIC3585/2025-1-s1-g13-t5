@@ -9,5 +9,16 @@
   "borders": [
     "GIN",
     "LBR"
+  ],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/jhacar85oq9QaeKB7",
+    "https://www.openstreetmap.org/relation/192777"
+  ],
+  "latlng": [
+    8.5,
+    -11.5
   ]
 }

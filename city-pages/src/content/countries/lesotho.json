@@ -8,5 +8,17 @@
   "population": 2142252,
   "borders": [
     "ZAF"
+  ],
+  "languages": [
+    "English",
+    "Sotho"
+  ],
+  "maps": [
+    "https://goo.gl/maps/H8gJi5mL4Cmd1SF28",
+    "https://www.openstreetmap.org/relation/2093234"
+  ],
+  "latlng": [
+    -29.5,
+    28.5
   ]
 }

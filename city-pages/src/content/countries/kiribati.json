@@ -6,5 +6,17 @@
   "flag": "https://flagcdn.com/w320/ki.png",
   "region": "Oceania",
   "population": 119446,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "Gilbertese"
+  ],
+  "maps": [
+    "https://goo.gl/maps/NBfYvrndW4skAimw9",
+    "https://www.openstreetmap.org/relation/571178"
+  ],
+  "latlng": [
+    1.41666666,
+    173
+  ]
 }

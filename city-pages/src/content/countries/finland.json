@@ -10,5 +10,17 @@
     "NOR",
     "SWE",
     "RUS"
+  ],
+  "languages": [
+    "Finnish",
+    "Swedish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
+    "openstreetmap.org/relation/54224"
+  ],
+  "latlng": [
+    64,
+    26
   ]
 }

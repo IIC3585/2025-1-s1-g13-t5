@@ -9,5 +9,16 @@
   "borders": [
     "IRQ",
     "SAU"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/aqr3aNQjS1BAvksJ7",
+    "https://www.openstreetmap.org/relation/305099"
+  ],
+  "latlng": [
+    29.5,
+    45.75
   ]
 }

@@ -8,5 +8,16 @@
   "population": 2881060,
   "borders": [
     "SAU"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
+    "https://www.openstreetmap.org/relation/305095"
+  ],
+  "latlng": [
+    25.5,
+    51.25
   ]
 }

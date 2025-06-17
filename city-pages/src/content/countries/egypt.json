@@ -11,5 +11,16 @@
     "LBY",
     "PSE",
     "SDN"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/uoDRhXbsqjG6L7VG7",
+    "https://www.openstreetmap.org/relation/1473947"
+  ],
+  "latlng": [
+    27,
+    30
   ]
 }

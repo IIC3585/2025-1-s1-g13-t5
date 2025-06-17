@@ -11,5 +11,17 @@
     "ZAF",
     "ZMB",
     "ZWE"
+  ],
+  "languages": [
+    "English",
+    "Tswana"
+  ],
+  "maps": [
+    "https://goo.gl/maps/E364KeLy6N4JwxwQ8",
+    "https://www.openstreetmap.org/relation/1889339"
+  ],
+  "latlng": [
+    -22,
+    24
   ]
 }

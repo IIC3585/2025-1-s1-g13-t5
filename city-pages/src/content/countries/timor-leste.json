@@ -8,5 +8,17 @@
   "population": 1318442,
   "borders": [
     "IDN"
+  ],
+  "languages": [
+    "Portuguese",
+    "Tetum"
+  ],
+  "maps": [
+    "https://goo.gl/maps/sFqBC9zjgUXPR1iTA",
+    "https://www.openstreetmap.org/relation/305142"
+  ],
+  "latlng": [
+    -8.83333333,
+    125.91666666
   ]
 }

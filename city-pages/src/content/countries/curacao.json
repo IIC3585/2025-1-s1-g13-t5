@@ -6,5 +6,18 @@
   "flag": "https://flagcdn.com/w320/cw.png",
   "region": "Americas",
   "population": 155014,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "Dutch",
+    "Papiamento"
+  ],
+  "maps": [
+    "https://goo.gl/maps/9D3hTeA3qKaRT7S16",
+    "https://www.openstreetmap.org/relation/1216719"
+  ],
+  "latlng": [
+    12.116667,
+    -68.933333
+  ]
 }

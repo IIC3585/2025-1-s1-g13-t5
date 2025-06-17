@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/tf.png",
   "region": "Antarctic",
   "population": 400,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/6ua6CX1m4w1xF2Em7",
+    "https://www.openstreetmap.org/relation/2186658"
+  ],
+  "latlng": [
+    -49.25,
+    69.167
+  ]
 }

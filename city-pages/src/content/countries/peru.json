@@ -12,5 +12,18 @@
     "CHL",
     "COL",
     "ECU"
+  ],
+  "languages": [
+    "Aymara",
+    "Quechua",
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
+    "https://www.openstreetmap.org/relation/288247"
+  ],
+  "latlng": [
+    -10,
+    -76
   ]
 }

@@ -11,5 +11,16 @@
     "SLV",
     "HND",
     "MEX"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/JoRAbem4Hxb9FYbVA",
+    "https://www.openstreetmap.org/relation/1521463"
+  ],
+  "latlng": [
+    15.5,
+    -90.25
   ]
 }

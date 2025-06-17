@@ -12,5 +12,19 @@
     "CHL",
     "PRY",
     "PER"
+  ],
+  "languages": [
+    "Aymara",
+    "Guaraní",
+    "Quechua",
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
+    "https://www.openstreetmap.org/relation/252645"
+  ],
+  "latlng": [
+    -17,
+    -65
   ]
 }

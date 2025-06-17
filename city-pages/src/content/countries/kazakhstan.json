@@ -12,5 +12,17 @@
     "RUS",
     "TKM",
     "UZB"
+  ],
+  "languages": [
+    "Kazakh",
+    "Russian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/8VohJGu7ShuzZYyeA",
+    "https://www.openstreetmap.org/relation/214665"
+  ],
+  "latlng": [
+    48.0196,
+    66.9237
   ]
 }

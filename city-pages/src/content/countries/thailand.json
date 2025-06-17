@@ -11,5 +11,16 @@
     "KHM",
     "LAO",
     "MYS"
+  ],
+  "languages": [
+    "Thai"
+  ],
+  "maps": [
+    "https://goo.gl/maps/qeU6uqsfW4nCCwzw9",
+    "https://www.openstreetmap.org/relation/2067731"
+  ],
+  "latlng": [
+    15,
+    100
   ]
 }

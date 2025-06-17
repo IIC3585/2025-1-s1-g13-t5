@@ -11,5 +11,17 @@
     "CHN",
     "IND",
     "IRN"
+  ],
+  "languages": [
+    "English",
+    "Urdu"
+  ],
+  "maps": [
+    "https://goo.gl/maps/5LYujdfR5yLUXoERA",
+    "https://www.openstreetmap.org/relation/307573"
+  ],
+  "latlng": [
+    30,
+    70
   ]
 }

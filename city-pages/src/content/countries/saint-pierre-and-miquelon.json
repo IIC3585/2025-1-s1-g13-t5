@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/pm.png",
   "region": "Americas",
   "population": 6069,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/bUM8Yc8pA8ghyhmt6",
+    "https://www.openstreetmap.org/relation/3406826"
+  ],
+  "latlng": [
+    46.83333333,
+    -56.33333333
+  ]
 }

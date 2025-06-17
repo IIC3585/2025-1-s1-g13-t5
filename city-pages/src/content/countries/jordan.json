@@ -12,5 +12,16 @@
     "PSE",
     "SAU",
     "SYR"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/ko1dzSDKg8Gsi9A98",
+    "https://www.openstreetmap.org/relation/184818"
+  ],
+  "latlng": [
+    31,
+    36
   ]
 }

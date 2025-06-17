@@ -1,8 +1,8 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-const API_URL = 'https://restcountries.com/v3.1/all?fields=name,cca3,capital,flags,region,population,borders';
-const OUTPUT_DIR = './src/content/countries';
+const API_URL = 'https://restcountries.com/v3.1/all?fields=name,cca3,capital,flags,region,population,borders,languages,maps,latlng';
+const OUTPUT_DIR = '../city-pages/src/content/countries';
 
 async function main() {
   const res = await fetch(API_URL);
@@ -23,11 +23,14 @@ async function main() {
       slug,
       code: country.cca3.toLowerCase(),
       name: country.name.common,
-      capital: country.capital ? country.capital[0] : 'Desconocida',
+      capital: country.capital[0],
       flag: country.flags?.png || '',
       region: country.region,
       population: country.population,
-      borders: country.borders || []
+      borders: country.borders || [],
+      languages: Object.values(country.languages),
+      maps: Object.values(country.maps),
+      latlng: country.latlng,
     };
 
 

@@ -10,5 +10,16 @@
     "GIN",
     "CIV",
     "SLE"
+  ],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/4VsHsc2oeGeRL3wg6",
+    "https://www.openstreetmap.org/relation/192780"
+  ],
+  "latlng": [
+    6.5,
+    -9.5
   ]
 }

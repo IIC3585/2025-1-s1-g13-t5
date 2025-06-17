@@ -6,5 +6,17 @@
   "flag": "https://flagcdn.com/w320/fo.png",
   "region": "Europe",
   "population": 48865,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "Danish",
+    "Faroese"
+  ],
+  "maps": [
+    "https://goo.gl/maps/6sTru4SmHdEVcNkM6",
+    "https://www.openstreetmap.org/relation/52939"
+  ],
+  "latlng": [
+    62,
+    -7
+  ]
 }

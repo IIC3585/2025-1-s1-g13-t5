@@ -6,5 +6,18 @@
   "flag": "https://flagcdn.com/w320/vu.png",
   "region": "Oceania",
   "population": 307150,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "Bislama",
+    "English",
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/hwAjehcT7VfvP5zJ8",
+    "https://www.openstreetmap.org/relation/2177246"
+  ],
+  "latlng": [
+    -16,
+    167
+  ]
 }

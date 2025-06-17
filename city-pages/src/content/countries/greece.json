@@ -11,5 +11,16 @@
     "BGR",
     "TUR",
     "MKD"
+  ],
+  "languages": [
+    "Greek"
+  ],
+  "maps": [
+    "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
+    "https://www.openstreetmap.org/relation/192307"
+  ],
+  "latlng": [
+    39,
+    22
   ]
 }

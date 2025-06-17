@@ -10,5 +10,16 @@
     "LAO",
     "THA",
     "VNM"
+  ],
+  "languages": [
+    "Khmer"
+  ],
+  "maps": [
+    "https://goo.gl/maps/nztQtFSrUXZymJaW8",
+    "https://www.openstreetmap.org/relation/49898"
+  ],
+  "latlng": [
+    13,
+    105
   ]
 }

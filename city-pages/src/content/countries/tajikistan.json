@@ -11,5 +11,17 @@
     "CHN",
     "KGZ",
     "UZB"
+  ],
+  "languages": [
+    "Russian",
+    "Tajik"
+  ],
+  "maps": [
+    "https://goo.gl/maps/8rQgW88jEXijhVb58",
+    "https://www.openstreetmap.org/relation/214626"
+  ],
+  "latlng": [
+    39,
+    71
   ]
 }

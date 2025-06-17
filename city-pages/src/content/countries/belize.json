@@ -9,5 +9,18 @@
   "borders": [
     "GTM",
     "MEX"
+  ],
+  "languages": [
+    "Belizean Creole",
+    "English",
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/jdCccpdLodm1uTmo9",
+    "https://www.openstreetmap.org/relation/287827"
+  ],
+  "latlng": [
+    17.25,
+    -88.75
   ]
 }

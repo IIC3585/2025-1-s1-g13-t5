@@ -12,5 +12,16 @@
     "GNB",
     "MLI",
     "MRT"
+  ],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/o5f1uD5nyihCL3HCA",
+    "https://www.openstreetmap.org/relation/192775"
+  ],
+  "latlng": [
+    14,
+    -14
   ]
 }

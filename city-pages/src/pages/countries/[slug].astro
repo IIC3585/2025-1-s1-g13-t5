@@ -1,7 +1,7 @@
 ---
 import { getEntry, getCollection } from "astro:content";
 import NeighborIsla from '../../components/NeighborIsla.jsx';
-import TravelPlanIsla from '../../components/TravelPlanIsla.vue';
+import AddToTravelPlanButtonIsla from '../../components/AddToTravelPlanButtonIsla.vue';
 
 export async function getStaticPaths() {
   const countries = await getCollection("countries");
@@ -32,6 +32,8 @@ const neighbors = country.borders
           name: c.data.name,
           flag: c.data.flag,
           slug: c.data.slug,
+          lat: c.data.latlng[0],
+          lng: c.data.latlng[1]
         };
       })
       .filter(Boolean)
@@ -61,7 +63,7 @@ const neighbors = country.borders
       />
     </section>
     <section class="mt-5">
-      <TravelPlanIsla country={country} client:visible />
+      <AddToTravelPlanButtonIsla country={country} client:visible />
     </section>
     <section>
       <NeighborIsla neighbors={neighbors} client:load />

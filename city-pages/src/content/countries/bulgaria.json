@@ -12,5 +12,16 @@
     "ROU",
     "SRB",
     "TUR"
+  ],
+  "languages": [
+    "Bulgarian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/F5uAhDGWzc3BrHfm9",
+    "https://www.openstreetmap.org/relation/186382"
+  ],
+  "latlng": [
+    43,
+    25
   ]
 }

@@ -9,5 +9,16 @@
   "borders": [
     "DZA",
     "LBY"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/KgUmpZdUuNRaougs8",
+    "https://www.openstreetmap.org/relation/192757"
+  ],
+  "latlng": [
+    34,
+    9
   ]
 }

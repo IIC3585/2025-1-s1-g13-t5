@@ -12,5 +12,16 @@
     "IND",
     "LAO",
     "THA"
+  ],
+  "languages": [
+    "Burmese"
+  ],
+  "maps": [
+    "https://goo.gl/maps/4jrZyJkDERUfHyp26",
+    "https://www.openstreetmap.org/relation/50371"
+  ],
+  "latlng": [
+    22,
+    98
   ]
 }

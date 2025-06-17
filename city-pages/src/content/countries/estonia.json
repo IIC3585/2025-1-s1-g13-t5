@@ -9,5 +9,16 @@
   "borders": [
     "LVA",
     "RUS"
+  ],
+  "languages": [
+    "Estonian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/6SsynwGUodL1sDvq8",
+    "https://www.openstreetmap.org/relation/79510"
+  ],
+  "latlng": [
+    59,
+    26
   ]
 }

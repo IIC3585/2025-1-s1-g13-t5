@@ -12,5 +12,17 @@
     "SSD",
     "TZA",
     "UGA"
+  ],
+  "languages": [
+    "English",
+    "Swahili"
+  ],
+  "maps": [
+    "https://goo.gl/maps/Ni9M7wcCxf8bJHLX8",
+    "https://www.openstreetmap.org/relation/192798"
+  ],
+  "latlng": [
+    1,
+    38
   ]
 }

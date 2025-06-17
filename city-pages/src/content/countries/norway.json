@@ -10,5 +10,18 @@
     "FIN",
     "SWE",
     "RUS"
+  ],
+  "languages": [
+    "Norwegian Nynorsk",
+    "Norwegian Bokmål",
+    "Sami"
+  ],
+  "maps": [
+    "https://goo.gl/maps/htWRrphA7vNgQNdSA",
+    "https://www.openstreetmap.org/relation/2978650"
+  ],
+  "latlng": [
+    62,
+    10
   ]
 }

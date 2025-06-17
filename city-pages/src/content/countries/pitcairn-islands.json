@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/pn.png",
   "region": "Oceania",
   "population": 56,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/XGJMnMAigXjXcxSa7",
+    "https://www.openstreetmap.org/relation/2185375"
+  ],
+  "latlng": [
+    -25.06666666,
+    -130.1
+  ]
 }

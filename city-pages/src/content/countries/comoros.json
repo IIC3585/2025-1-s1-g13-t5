@@ -6,5 +6,18 @@
   "flag": "https://flagcdn.com/w320/km.png",
   "region": "Africa",
   "population": 869595,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "Arabic",
+    "French",
+    "Comorian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/eas4GP28C1GyStnu6",
+    "https://www.openstreetmap.org/relation/535790"
+  ],
+  "latlng": [
+    -12.16666666,
+    44.25
+  ]
 }

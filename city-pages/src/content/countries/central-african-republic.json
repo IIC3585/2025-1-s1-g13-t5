@@ -13,5 +13,17 @@
     "COG",
     "SSD",
     "SDN"
+  ],
+  "languages": [
+    "French",
+    "Sango"
+  ],
+  "maps": [
+    "https://goo.gl/maps/51V8dsi2rGYC9n3c9",
+    "https://www.openstreetmap.org/relation/192790"
+  ],
+  "latlng": [
+    7,
+    21
   ]
 }

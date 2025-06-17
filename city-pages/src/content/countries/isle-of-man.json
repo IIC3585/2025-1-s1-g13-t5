@@ -6,5 +6,17 @@
   "flag": "https://flagcdn.com/w320/im.png",
   "region": "Europe",
   "population": 85032,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "Manx"
+  ],
+  "maps": [
+    "https://goo.gl/maps/4DqVHDgVaFgnh8ZV8",
+    "https://www.openstreetmap.org/relation/62269"
+  ],
+  "latlng": [
+    54.25,
+    -4.5
+  ]
 }

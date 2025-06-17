@@ -13,5 +13,18 @@
     "UZB",
     "TJK",
     "CHN"
+  ],
+  "languages": [
+    "Dari",
+    "Pashto",
+    "Turkmen"
+  ],
+  "maps": [
+    "https://goo.gl/maps/BXBGw7yUUFknCfva9",
+    "https://www.openstreetmap.org/relation/303427"
+  ],
+  "latlng": [
+    33,
+    65
   ]
 }

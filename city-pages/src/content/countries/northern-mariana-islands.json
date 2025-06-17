@@ -6,5 +6,18 @@
   "flag": "https://flagcdn.com/w320/mp.png",
   "region": "Oceania",
   "population": 57557,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "Carolinian",
+    "Chamorro",
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/cpZ67knoRAcfu1417",
+    "https://www.openstreetmap.org/relation/306004"
+  ],
+  "latlng": [
+    15.2,
+    145.75
+  ]
 }

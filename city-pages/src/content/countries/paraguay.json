@@ -10,5 +10,17 @@
     "ARG",
     "BOL",
     "BRA"
+  ],
+  "languages": [
+    "Guaraní",
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/JtnqG73WJn1Gx6mz6",
+    "https://www.openstreetmap.org/relation/287077"
+  ],
+  "latlng": [
+    -23,
+    -58
   ]
 }

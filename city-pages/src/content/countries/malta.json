@@ -6,5 +6,17 @@
   "flag": "https://flagcdn.com/w320/mt.png",
   "region": "Europe",
   "population": 525285,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "Maltese"
+  ],
+  "maps": [
+    "https://goo.gl/maps/skXCqguxDxxEKVk47",
+    "https://www.openstreetmap.org/relation/365307"
+  ],
+  "latlng": [
+    35.9375,
+    14.3754
+  ]
 }

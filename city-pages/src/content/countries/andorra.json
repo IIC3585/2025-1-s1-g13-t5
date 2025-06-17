@@ -9,5 +9,16 @@
   "borders": [
     "FRA",
     "ESP"
+  ],
+  "languages": [
+    "Catalan"
+  ],
+  "maps": [
+    "https://goo.gl/maps/JqAnacWE2qEznKgw7",
+    "https://www.openstreetmap.org/relation/9407"
+  ],
+  "latlng": [
+    42.5,
+    1.5
   ]
 }

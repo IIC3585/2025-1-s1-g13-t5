@@ -12,5 +12,16 @@
     "PAN",
     "PER",
     "VEN"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/zix9qNFX69E9yZ2M6",
+    "https://www.openstreetmap.org/relation/120027"
+  ],
+  "latlng": [
+    4,
+    -72
   ]
 }

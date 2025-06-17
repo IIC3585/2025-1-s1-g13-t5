@@ -9,5 +9,16 @@
   "borders": [
     "NIC",
     "PAN"
+  ],
+  "languages": [
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/RFiwytjvNrpfKN7k6",
+    "https://www.openstreetmap.org/relation/287667"
+  ],
+  "latlng": [
+    10,
+    -84
   ]
 }

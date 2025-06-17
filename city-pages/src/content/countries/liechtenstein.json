@@ -9,5 +9,16 @@
   "borders": [
     "AUT",
     "CHE"
+  ],
+  "languages": [
+    "German"
+  ],
+  "maps": [
+    "https://goo.gl/maps/KNuHeiJzAPodwM7y6",
+    "https://www.openstreetmap.org/relation/1155955"
+  ],
+  "latlng": [
+    47.26666666,
+    9.53333333
   ]
 }

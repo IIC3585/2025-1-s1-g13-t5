@@ -8,5 +8,17 @@
   "population": 7500700,
   "borders": [
     "CHN"
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "maps": [
+    "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
+    "https://www.openstreetmap.org/relation/913110"
+  ],
+  "latlng": [
+    22.267,
+    114.188
   ]
 }

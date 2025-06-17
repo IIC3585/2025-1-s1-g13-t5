@@ -6,5 +6,18 @@
   "flag": "https://flagcdn.com/w320/bq.png",
   "region": "Americas",
   "population": 25987,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "Dutch",
+    "Papiamento"
+  ],
+  "maps": [
+    "https://goo.gl/maps/4XVes1P6uEDTz77WA",
+    "https://www.openstreetmap.org/relation/1216720"
+  ],
+  "latlng": [
+    12.18,
+    -68.25
+  ]
 }

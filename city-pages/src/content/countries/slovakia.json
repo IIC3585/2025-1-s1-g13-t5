@@ -12,5 +12,16 @@
     "HUN",
     "POL",
     "UKR"
+  ],
+  "languages": [
+    "Slovak"
+  ],
+  "maps": [
+    "https://goo.gl/maps/uNSH2wW4bLoZVYJj7",
+    "https://www.openstreetmap.org/relation/14296"
+  ],
+  "latlng": [
+    48.66666666,
+    19.5
   ]
 }

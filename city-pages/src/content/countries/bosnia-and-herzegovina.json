@@ -10,5 +10,18 @@
     "HRV",
     "MNE",
     "SRB"
+  ],
+  "languages": [
+    "Bosnian",
+    "Croatian",
+    "Serbian"
+  ],
+  "maps": [
+    "https://www.google.com/maps/place/Bosnia+and+Herzegovina",
+    "https://www.openstreetmap.org/relation/2528142"
+  ],
+  "latlng": [
+    44,
+    18
   ]
 }

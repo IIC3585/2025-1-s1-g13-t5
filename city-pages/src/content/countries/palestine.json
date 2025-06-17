@@ -10,5 +10,16 @@
     "ISR",
     "EGY",
     "JOR"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/QvTbkRdmdWEoYAmt5",
+    "https://www.openstreetmap.org/relation/1703814"
+  ],
+  "latlng": [
+    31.9,
+    35.2
   ]
 }

@@ -10,5 +10,16 @@
     "BEN",
     "BFA",
     "GHA"
+  ],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/jzAa9feXuXPrKVb89",
+    "https://www.openstreetmap.org/relation/192782"
+  ],
+  "latlng": [
+    8,
+    1.16666666
   ]
 }

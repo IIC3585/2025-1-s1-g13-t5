@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/is.png",
   "region": "Europe",
   "population": 366425,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "Icelandic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/WxFWSQuc3oamNxoE6",
+    "https://www.openstreetmap.org/relation/299133"
+  ],
+  "latlng": [
+    65,
+    -18
+  ]
 }

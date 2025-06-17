@@ -12,5 +12,16 @@
     "HRV",
     "UNK",
     "SRB"
+  ],
+  "languages": [
+    "Montenegrin"
+  ],
+  "maps": [
+    "https://goo.gl/maps/4THX1fM7WqANuPbB8",
+    "https://www.openstreetmap.org/relation/53296"
+  ],
+  "latlng": [
+    42.5,
+    19.3
   ]
 }

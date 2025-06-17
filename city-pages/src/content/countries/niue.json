@@ -6,5 +6,17 @@
   "flag": "https://flagcdn.com/w320/nu.png",
   "region": "Oceania",
   "population": 1470,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "Niuean"
+  ],
+  "maps": [
+    "https://goo.gl/maps/xFgdzs3E55Rk1y8P9",
+    "https://www.openstreetmap.org/relation/1558556"
+  ],
+  "latlng": [
+    -19.03333333,
+    -169.86666666
+  ]
 }

@@ -11,5 +11,16 @@
     "MLI",
     "SEN",
     "ESH"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/im2MmQ5jFjzxWBks5",
+    "https://www.openstreetmap.org/relation/192763"
+  ],
+  "latlng": [
+    20,
+    -12
   ]
 }

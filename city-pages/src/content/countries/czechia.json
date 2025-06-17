@@ -11,5 +11,17 @@
     "DEU",
     "POL",
     "SVK"
+  ],
+  "languages": [
+    "Czech",
+    "Slovak"
+  ],
+  "maps": [
+    "https://goo.gl/maps/47dmgeXMZyhDHyQW8",
+    "https://www.openstreetmap.org/relation/51684"
+  ],
+  "latlng": [
+    49.75,
+    15.5
   ]
 }

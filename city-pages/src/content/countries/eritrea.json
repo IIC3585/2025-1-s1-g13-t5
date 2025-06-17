@@ -10,5 +10,18 @@
     "DJI",
     "ETH",
     "SDN"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "Tigrinya"
+  ],
+  "maps": [
+    "https://goo.gl/maps/HRyqUpnPwwG6jY5j6",
+    "https://www.openstreetmap.org/relation/296961"
+  ],
+  "latlng": [
+    15,
+    39
   ]
 }

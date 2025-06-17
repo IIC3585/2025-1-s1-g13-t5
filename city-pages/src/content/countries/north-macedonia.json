@@ -12,5 +12,16 @@
     "GRC",
     "UNK",
     "SRB"
+  ],
+  "languages": [
+    "Macedonian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
+    "https://www.openstreetmap.org/relation/53293"
+  ],
+  "latlng": [
+    41.83333333,
+    22
   ]
 }

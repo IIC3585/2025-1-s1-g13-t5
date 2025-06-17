@@ -10,5 +10,16 @@
     "BFA",
     "CIV",
     "TGO"
+  ],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
+    "https://www.openstreetmap.org/relation/192781"
+  ],
+  "latlng": [
+    8,
+    -2
   ]
 }

@@ -13,5 +13,18 @@
     "CHN",
     "NPL",
     "PAK"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Tamil"
+  ],
+  "maps": [
+    "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
+    "https://www.openstreetmap.org/relation/304716"
+  ],
+  "latlng": [
+    20,
+    77
   ]
 }

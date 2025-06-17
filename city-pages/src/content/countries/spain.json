@@ -12,5 +12,19 @@
     "GIB",
     "PRT",
     "MAR"
+  ],
+  "languages": [
+    "Spanish",
+    "Catalan",
+    "Basque",
+    "Galician"
+  ],
+  "maps": [
+    "https://goo.gl/maps/138JaXW8EZzRVitY9",
+    "https://www.openstreetmap.org/relation/1311341"
+  ],
+  "latlng": [
+    40,
+    -4
   ]
 }

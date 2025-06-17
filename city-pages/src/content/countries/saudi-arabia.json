@@ -14,5 +14,16 @@
     "QAT",
     "ARE",
     "YEM"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/5PSjvdJ1AyaLFRrG9",
+    "https://www.openstreetmap.org/relation/307584"
+  ],
+  "latlng": [
+    25,
+    45
   ]
 }

@@ -10,5 +10,16 @@
     "TLS",
     "MYS",
     "PNG"
+  ],
+  "languages": [
+    "Indonesian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+    "https://www.openstreetmap.org/relation/21335"
+  ],
+  "latlng": [
+    -5,
+    120
   ]
 }

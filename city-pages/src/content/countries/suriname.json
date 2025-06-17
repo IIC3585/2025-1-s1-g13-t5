@@ -10,5 +10,16 @@
     "BRA",
     "GUF",
     "GUY"
+  ],
+  "languages": [
+    "Dutch"
+  ],
+  "maps": [
+    "https://goo.gl/maps/iy7TuQLSi4qgoBoG7",
+    "https://www.openstreetmap.org/relation/287082"
+  ],
+  "latlng": [
+    4,
+    -56
   ]
 }

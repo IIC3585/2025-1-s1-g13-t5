@@ -10,5 +10,16 @@
     "SAU",
     "ARE",
     "YEM"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/L2BoXoAwDDwWecnw5",
+    "https://www.openstreetmap.org/relation/305138"
+  ],
+  "latlng": [
+    21,
+    57
   ]
 }

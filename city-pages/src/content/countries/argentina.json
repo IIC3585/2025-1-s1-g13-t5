@@ -12,5 +12,17 @@
     "CHL",
     "PRY",
     "URY"
+  ],
+  "languages": [
+    "Guaraní",
+    "Spanish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
+    "https://www.openstreetmap.org/relation/286393"
+  ],
+  "latlng": [
+    -34,
+    -64
   ]
 }

@@ -6,5 +6,17 @@
   "flag": "https://flagcdn.com/w320/cy.png",
   "region": "Europe",
   "population": 1207361,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "Greek",
+    "Turkish"
+  ],
+  "maps": [
+    "https://goo.gl/maps/77hPBRdLid8yD5Bm7",
+    "https://www.openstreetmap.org/relation/307787"
+  ],
+  "latlng": [
+    35,
+    33
+  ]
 }

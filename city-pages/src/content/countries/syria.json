@@ -12,5 +12,16 @@
     "JOR",
     "LBN",
     "TUR"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/Xe3VnFbwdb4nv2SM9",
+    "https://www.openstreetmap.org/relation/184840"
+  ],
+  "latlng": [
+    35,
+    38
   ]
 }

@@ -14,5 +14,16 @@
     "MRT",
     "NER",
     "SEN"
+  ],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/u9mYJkCB19wyuzh27",
+    "https://www.openstreetmap.org/relation/192785"
+  ],
+  "latlng": [
+    17,
+    -4
   ]
 }

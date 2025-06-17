@@ -9,5 +9,16 @@
   "borders": [
     "OMN",
     "SAU"
+  ],
+  "languages": [
+    "Arabic"
+  ],
+  "maps": [
+    "https://goo.gl/maps/AZZTDA6GzVAnKMVd8",
+    "https://www.openstreetmap.org/relation/307763"
+  ],
+  "latlng": [
+    24,
+    54
   ]
 }

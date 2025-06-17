@@ -14,5 +14,17 @@
     "ETH",
     "LBY",
     "SSD"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/bNW7YUJCaqR8zcXn7",
+    "https://www.openstreetmap.org/relation/192789"
+  ],
+  "latlng": [
+    15,
+    30
   ]
 }

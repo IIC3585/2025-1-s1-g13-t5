@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/um.png",
   "region": "Americas",
   "population": 300,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/hZKnrzgeK69dDyPF8",
+    "https://www.openstreetmap.org/relation/6430384"
+  ],
+  "latlng": [
+    19.3,
+    166.633333
+  ]
 }

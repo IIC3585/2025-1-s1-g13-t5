@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/vi.png",
   "region": "Americas",
   "population": 106290,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/mBfreywj8dor6q4m9",
+    "openstreetmap.org/relation/286898"
+  ],
+  "latlng": [
+    18.35,
+    -64.933333
+  ]
 }

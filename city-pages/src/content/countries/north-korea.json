@@ -10,5 +10,16 @@
     "CHN",
     "KOR",
     "RUS"
+  ],
+  "languages": [
+    "Korean"
+  ],
+  "maps": [
+    "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
+    "https://www.openstreetmap.org/relation/192734"
+  ],
+  "latlng": [
+    40,
+    127
   ]
 }

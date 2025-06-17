@@ -12,5 +12,18 @@
     "CAF",
     "COD",
     "GAB"
+  ],
+  "languages": [
+    "French",
+    "Kikongo",
+    "Lingala"
+  ],
+  "maps": [
+    "https://goo.gl/maps/Phf5dDDKdfCtuBTb6",
+    "https://www.openstreetmap.org/relation/192794"
+  ],
+  "latlng": [
+    -1,
+    15
   ]
 }

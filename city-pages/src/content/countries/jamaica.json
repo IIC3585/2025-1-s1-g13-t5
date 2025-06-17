@@ -6,5 +6,17 @@
   "flag": "https://flagcdn.com/w320/jm.png",
   "region": "Americas",
   "population": 2961161,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English",
+    "Jamaican Patois"
+  ],
+  "maps": [
+    "https://goo.gl/maps/Z8mQ6jxnRQKFwJy9A",
+    "https://www.openstreetmap.org/relation/555017"
+  ],
+  "latlng": [
+    18.25,
+    -77.5
+  ]
 }

@@ -8,5 +8,17 @@
   "population": 451,
   "borders": [
     "ITA"
+  ],
+  "languages": [
+    "Italian",
+    "Latin"
+  ],
+  "maps": [
+    "https://goo.gl/maps/DTKvw5Bd1QZaDZmE8",
+    "https://www.openstreetmap.org/relation/36989"
+  ],
+  "latlng": [
+    41.9,
+    12.45
   ]
 }

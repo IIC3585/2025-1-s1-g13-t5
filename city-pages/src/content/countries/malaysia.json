@@ -10,5 +10,17 @@
     "BRN",
     "IDN",
     "THA"
+  ],
+  "languages": [
+    "English",
+    "Malay"
+  ],
+  "maps": [
+    "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
+    "https://www.openstreetmap.org/relation/2108121"
+  ],
+  "latlng": [
+    2.5,
+    112.5
   ]
 }

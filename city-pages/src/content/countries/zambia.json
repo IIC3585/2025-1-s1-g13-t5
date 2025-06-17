@@ -15,5 +15,16 @@
     "NAM",
     "TZA",
     "ZWE"
+  ],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/mweBcqvW8TppZW6q9",
+    "https://www.openstreetmap.org/relation/195271"
+  ],
+  "latlng": [
+    -15,
+    30
   ]
 }

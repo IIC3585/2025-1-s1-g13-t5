@@ -1,16 +1,16 @@
 import React from 'react';
 
-export default function NeighborIsla({ neighbors }) { // Modificar este objeto y como se lee
+export default function NeighborIsla({ neighbors }) {
   return (
-    <div className="p-4 bg-blue-50 rounded-md shadow-md">
-      <h3 className="text-lg font-semibold mb-2">Países Vecinos</h3>
+    <div className="p-3 bg-light rounded shadow-sm">
+      <h3 className="h5 mb-3">Países Vecinos</h3>
       {neighbors && neighbors.length > 0 ? (
-        <ul className="flex flex-wrap gap-3">
-          {neighbors.map((n) => (
-            <li key={n.code} className="border p-2 rounded hover:bg-blue-100 cursor-pointer">
-              <a href={`/countries/${n.slug}`} className="flex items-center gap-2">
-                <img src={n.flag} alt={`Bandera de ${n.name}`} className="w-6 h-4 object-cover" />
-                <span>{n.name}</span>
+        <ul className="list-unstyled d-flex flex-wrap gap-2">
+          {neighbors.map(({ code, slug, name, flag }) => (
+            <li key={code} className="border rounded p-2">
+              <a href={`/countries/${slug}`} className="d-flex align-items-center text-decoration-none gap-2">
+                <img src={flag} alt={`Bandera de ${name}`} className="img-fluid" style={{ width: '24px', height: '16px', objectFit: 'cover' }} />
+                <strong className="ms-2">{name}</strong>
               </a>
             </li>
           ))}

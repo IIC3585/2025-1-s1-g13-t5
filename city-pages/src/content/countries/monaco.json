@@ -8,5 +8,16 @@
   "population": 39244,
   "borders": [
     "FRA"
+  ],
+  "languages": [
+    "French"
+  ],
+  "maps": [
+    "https://goo.gl/maps/DGpndDot28bYdXYn7",
+    "https://www.openstreetmap.org/relation/1124039"
+  ],
+  "latlng": [
+    43.73333333,
+    7.4
   ]
 }

@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/cx.png",
   "region": "Oceania",
   "population": 2072,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/ZC17hHsQZpShN5wk9",
+    "https://www.openstreetmap.org/relation/6365444"
+  ],
+  "latlng": [
+    -10.5,
+    105.66666666
+  ]
 }

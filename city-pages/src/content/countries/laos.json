@@ -12,5 +12,16 @@
     "CHN",
     "THA",
     "VNM"
+  ],
+  "languages": [
+    "Lao"
+  ],
+  "maps": [
+    "https://goo.gl/maps/F3asVB7sRKgSnwbE7",
+    "https://www.openstreetmap.org/relation/49903"
+  ],
+  "latlng": [
+    18,
+    105
   ]
 }

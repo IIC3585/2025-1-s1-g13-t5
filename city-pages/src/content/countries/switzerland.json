@@ -12,5 +12,19 @@
     "ITA",
     "LIE",
     "DEU"
+  ],
+  "languages": [
+    "French",
+    "Swiss German",
+    "Italian",
+    "Romansh"
+  ],
+  "maps": [
+    "https://goo.gl/maps/uVuZcXaxSx5jLyEC9",
+    "https://www.openstreetmap.org/relation/51701"
+  ],
+  "latlng": [
+    47,
+    8
   ]
 }

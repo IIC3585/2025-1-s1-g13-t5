@@ -9,5 +9,16 @@
   "borders": [
     "CAN",
     "MEX"
+  ],
+  "languages": [
+    "English"
+  ],
+  "maps": [
+    "https://goo.gl/maps/e8M246zY4BSjkjAv6",
+    "https://www.openstreetmap.org/relation/148838#map=2/20.6/-85.8"
+  ],
+  "latlng": [
+    38,
+    -97
   ]
 }

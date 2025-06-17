@@ -12,5 +12,17 @@
     "KGZ",
     "TJK",
     "TKM"
+  ],
+  "languages": [
+    "Russian",
+    "Uzbek"
+  ],
+  "maps": [
+    "https://goo.gl/maps/AJpo6MjMx23qSWCz8",
+    "https://www.openstreetmap.org/relation/196240"
+  ],
+  "latlng": [
+    41,
+    64
   ]
 }

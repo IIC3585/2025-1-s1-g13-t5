@@ -6,5 +6,16 @@
   "flag": "https://flagcdn.com/w320/jp.png",
   "region": "Asia",
   "population": 125836021,
-  "borders": []
+  "borders": [],
+  "languages": [
+    "Japanese"
+  ],
+  "maps": [
+    "https://goo.gl/maps/NGTLSCSrA8bMrvnX9",
+    "https://www.openstreetmap.org/relation/382313"
+  ],
+  "latlng": [
+    36,
+    138
+  ]
 }

@@ -16,5 +16,16 @@
     "NLD",
     "POL",
     "CHE"
+  ],
+  "languages": [
+    "German"
+  ],
+  "maps": [
+    "https://goo.gl/maps/mD9FBMq1nvXUBrkv6",
+    "https://www.openstreetmap.org/relation/51477"
+  ],
+  "latlng": [
+    51,
+    9
   ]
 }

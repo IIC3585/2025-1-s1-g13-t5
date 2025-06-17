@@ -11,5 +11,17 @@
     "KAZ",
     "TJK",
     "UZB"
+  ],
+  "languages": [
+    "Kyrgyz",
+    "Russian"
+  ],
+  "maps": [
+    "https://goo.gl/maps/SKG8BSMMQVvxkRkB7",
+    "https://www.openstreetmap.org/relation/178009"
+  ],
+  "latlng": [
+    41,
+    75
   ]
 }

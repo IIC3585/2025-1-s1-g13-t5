@@ -2,7 +2,7 @@
 import { ref, onMounted } from 'vue';
 
 const props = defineProps({
-  country: Object, // Modificar este objeto y como se lee
+  country: Object,
 });
 
 const storedKey = 'travel-plan';

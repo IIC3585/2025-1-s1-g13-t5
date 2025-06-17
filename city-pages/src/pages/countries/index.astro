@@ -5,7 +5,8 @@ const countries = await getCollection("countries");
 
 ---
 <Layout>
-<main class="container py-5">
+<main class="container mt-5 pt-5 pb-5" >
+
   <h1 class="mb-4 text-center">Países ({countries.length})</h1>
   <div class="row row-cols-1 row-cols-md-3 g-4">
     {countries.map((country) => (
